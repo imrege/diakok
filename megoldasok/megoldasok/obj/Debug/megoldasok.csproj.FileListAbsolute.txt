@@ -1,0 +1,21 @@
+C:\Users\nagyi\OneDrive\Dokumentumok (felhő)\sulis anyagok\programozás\diákok\megoldasok\megoldasok\bin\Debug\megoldasok.exe.config
+C:\Users\nagyi\OneDrive\Dokumentumok (felhő)\sulis anyagok\programozás\diákok\megoldasok\megoldasok\bin\Debug\megoldasok.exe
+C:\Users\nagyi\OneDrive\Dokumentumok (felhő)\sulis anyagok\programozás\diákok\megoldasok\megoldasok\bin\Debug\megoldasok.pdb
+C:\Users\nagyi\OneDrive\Dokumentumok (felhő)\sulis anyagok\programozás\diákok\megoldasok\megoldasok\obj\Debug\megoldasok.csprojAssemblyReference.cache
+C:\Users\nagyi\OneDrive\Dokumentumok (felhő)\sulis anyagok\programozás\diákok\megoldasok\megoldasok\obj\Debug\megoldasok.exe
+C:\Users\nagyi\OneDrive\Dokumentumok (felhő)\sulis anyagok\programozás\diákok\megoldasok\megoldasok\obj\Debug\megoldasok.pdb
+C:\Users\nagyi_csany-zeg\OneDrive\Dokumentumok (felhő)\sulis anyagok\programozás\diákok\megoldasok\megoldasok\bin\Debug\megoldasok.exe.config
+C:\Users\nagyi_csany-zeg\OneDrive\Dokumentumok (felhő)\sulis anyagok\programozás\diákok\megoldasok\megoldasok\bin\Debug\megoldasok.exe
+C:\Users\nagyi_csany-zeg\OneDrive\Dokumentumok (felhő)\sulis anyagok\programozás\diákok\megoldasok\megoldasok\bin\Debug\megoldasok.pdb
+C:\Users\nagyi_csany-zeg\OneDrive\Dokumentumok (felhő)\sulis anyagok\programozás\diákok\megoldasok\megoldasok\obj\Debug\megoldasok.csproj.AssemblyReference.cache
+C:\Users\nagyi_csany-zeg\OneDrive\Dokumentumok (felhő)\sulis anyagok\programozás\diákok\megoldasok\megoldasok\obj\Debug\megoldasok.csproj.SuggestedBindingRedirects.cache
+C:\Users\nagyi_csany-zeg\OneDrive\Dokumentumok (felhő)\sulis anyagok\programozás\diákok\megoldasok\megoldasok\obj\Debug\megoldasok.csproj.CoreCompileInputs.cache
+C:\Users\nagyi_csany-zeg\OneDrive\Dokumentumok (felhő)\sulis anyagok\programozás\diákok\megoldasok\megoldasok\obj\Debug\megoldasok.exe
+C:\Users\nagyi_csany-zeg\OneDrive\Dokumentumok (felhő)\sulis anyagok\programozás\diákok\megoldasok\megoldasok\obj\Debug\megoldasok.pdb
+C:\Users\Nagy Imre\OneDrive\Dokumentumok (felhő)\sulis anyagok\programozás\diákok\megoldasok\megoldasok\bin\Debug\megoldasok.exe.config
+C:\Users\Nagy Imre\OneDrive\Dokumentumok (felhő)\sulis anyagok\programozás\diákok\megoldasok\megoldasok\bin\Debug\megoldasok.exe
+C:\Users\Nagy Imre\OneDrive\Dokumentumok (felhő)\sulis anyagok\programozás\diákok\megoldasok\megoldasok\bin\Debug\megoldasok.pdb
+C:\Users\Nagy Imre\OneDrive\Dokumentumok (felhő)\sulis anyagok\programozás\diákok\megoldasok\megoldasok\obj\Debug\megoldasok.csprojAssemblyReference.cache
+C:\Users\Nagy Imre\OneDrive\Dokumentumok (felhő)\sulis anyagok\programozás\diákok\megoldasok\megoldasok\obj\Debug\megoldasok.csproj.CoreCompileInputs.cache
+C:\Users\Nagy Imre\OneDrive\Dokumentumok (felhő)\sulis anyagok\programozás\diákok\megoldasok\megoldasok\obj\Debug\megoldasok.exe
+C:\Users\Nagy Imre\OneDrive\Dokumentumok (felhő)\sulis anyagok\programozás\diákok\megoldasok\megoldasok\obj\Debug\megoldasok.pdb

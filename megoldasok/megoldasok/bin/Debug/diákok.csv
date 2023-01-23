@@ -1,0 +1,616 @@
+﻿név;osztály;csoport;nem;hajszíne;heti zsebpénz;kedvenc tárgy;bukások száma;átlag;testvérek száma;szülhely;szüldátum;szülidő;lakcím;anyja szül. dátuma;apja szül. dátuma;állat1;állat2
+Bencsik Andrea Réka;10.A;pénzügy;l;kék;7500;angol;0;2,5;0;Zalaegerszeg;2006.10.14;0:06:55;8900 Zalaegerszeg, Hegyalja u. 3/C. 1/5.;1982.01.30;1976.11.14;hörcsög;ló
+Csécs Melissza;10.A;rendszergazda;l;kék;8500;fizika;2;1;0;Zalaegerszeg;2007.06.17;9:00:32;8948 Nova, Ságvári E. u. 30;1965.06.14;1969.02.11;tyúk;patkány
+Gál Orsolya;10.A;szoftverfejlesztő;l;szőke;4000;rajz;2;1;2;Zalaegerszeg;2007.02.06;6:20:27;8992 Bagod, Szent Erzsébet utca 25.;1985.06.02;1959.01.10;ló;hal
+Gombos Vilmos Patrik;10.A;rendszergazda;f;barna;9000;biológia;0;3,26;0;Zalaegerszeg;2007.05.11;18:23:14;8992 Hagyárosbörönd, Kossuth utca 26/B;1984.11.08;1970.05.11;hörcsög;kígyó
+Guitman Gabriella;10.A;számvitel-gazdálkodás;l;szőke;3500;angol;0;3,05;0;Zalaegerszeg;2007.03.02;10:15:55;8900 Zalaegerszeg, Egry J. utca 2.;1983.06.01;1958.01.02;ló;hal
+Halpert László;10.A;pénzügy;f;szőke;4000;fizika;4;1;0;Zalaegerszeg;2007.03.18;9:34:46;8900 Zalaegerszeg, Belsőszeg u. 23.;1975.12.20;1967.01.09;kacsa;kígyó
+Himpelmann Bence;10.A;számvitel-gazdálkodás;f;szőke;7000;rajz;0;4,99;0;Zalaegerszeg;2006.06.26;3:41:53;8900 Zalaegerszeg, Paperdő u. 16.;1971.09.17;1967.12.23;;
+Holli Mátyás László;10.A;számvitel-gazdálkodás;f;fekete;6000;német;0;4,01;1;Zalaegerszeg;2006.07.01;1:49:17;8900 Zalaegerszeg, Virág u. 23.;1980.12.29;1973.03.09;;
+Imre Dóra;10.A;pénzügy;l;barna;8500;történelem;0;2,51;2;Zalaegerszeg;2006.08.05;11:26:00;8999 Zalalövő, Jókai u. 46.;1989.02.09;1963.10.31;teknős;hal
+Janda Marcell;10.A;számvitel-gazdálkodás;f;kék;8000;fizika;0;3,39;0;Zalaegerszeg;2006.08.13;12:37:01;9913 Szarvaskend, Iskola u. 19. B.;1970.08.16;1961.04.03;vadászgörény;patkány
+Juranovics Bianka;10.A;számvitel-gazdálkodás;l;fekete;9500;matematika;2;1;1;Zalaegerszeg;2005.11.12;16:24:21;8761 Pacsa, Jókai M.u. 21.;1980.08.11;1957.06.07;;
+Kardos Benita Eszter;10.A;számvitel-gazdálkodás;l;szőke;4000;rajz;2;1;2;Zalaegerszeg;2007.08.24;9:57:28;8761 Pacsa, Petőfi S. u. 13.;1976.11.20;1957.04.19;vadászgörény;
+Kiss Klaudia;10.A;pénzügy;l;fekete;7000;informatika;0;2,93;0;Zalaegerszeg;2006.04.01;13:43:32;8900 Zalaegerszeg, Göcseji-Pataki F.u. 4.;1982.04.30;1964.06.13;kutya;teknős
+Kocsis Gábor;10.A;pénzügy;f;vörös;3000;magyar;0;2,27;0;Körmend;2005.11.24;18:52:51;8999 Zalalövő, Széchenyi út 28.;1973.03.31;1952.06.22;vadászgörény;
+Kuzma Martin Ferenc;10.A;rendszergazda;f;barna;9000;matematika;0;4,17;2;Zalaegerszeg;2006.01.23;16:22:40;8945 Bak, Kossuth utca 112.;1963.05.22;1966.05.25;kutya;hörcsög
+Majoros Andrea Nikolett;10.A;számvitel-gazdálkodás;l;barna;6000;magyar;0;3,14;1;Zalaegerszeg;2007.07.29;21:29:08;8911 Kiskutas, Fő u. 1/G.;1968.07.06;1960.01.09;ló;vadászgörény
+Molnár Zoltán;10.A;rendszergazda;f;fekete;3500;földrajz;0;3,93;1;Zalaegerszeg;2006.12.24;9:06:57;8900 Zalaegerszeg, Hegyalja út 19. fsz. 1.;1972.09.06;1970.08.20;ló;hörcsög
+Nagy Liza;10.A;szoftverfejlesztő;l;fekete;3500;biológia;3;1;0;Zalaegerszeg;2005.10.02;6:03:26;8900 Zalaegerszeg, Gönczi u. 2.;1976.11.13;1955.02.02;ló;hörcsög
+Német Viktória;10.A;rendszergazda;l;kopasz;5000;magyar;0;3,06;2;Zalaegerszeg;2007.07.23;5:14:58;8991 Teskánd, Petőfi Sándor út 43.;1972.10.06;1959.09.03;kígyó;kutya
+Németh Eszter;10.A;számvitel-gazdálkodás;l;vörös;8500;német;0;4,6;2;Zalaegerszeg;2007.03.01;1:47:50;8900 Zalaegerszeg, Olajmunkás u. 4.;1963.06.09;1970.09.20;tyúk;hal
+Németh Krisztina;10.A;pénzügy;l;kék;6500;angol;0;4,21;0;Zalaegerszeg;2006.12.18;7:46:40;8900 Zalaegerszeg, Pázmány Péter utca 8. I/4;1963.06.19;1962.09.25;ló;
+Pál Patrícia Nóra;10.A;rendszergazda;l;vörös;7000;informatika;0;2,81;1;Zalaegerszeg;2007.07.25;1:22:15;8943 Bocfölde, Kodály Z. u. 3.;1982.09.10;1954.11.15;ló;macska
+Pattogó Martin;10.A;számvitel-gazdálkodás;f;fekete;3500;rajz;0;3,16;0;Zalaegerszeg;2007.03.19;5:37:50;8900 Zalaegerszeg, Zala utca 2/a I./1.;1962.09.20;1973.03.26;patkány;
+Pintér Dóra;10.A;pénzügy;l;kék;6500;informatika;0;4,05;2;Nagykanizsa;2005.12.22;19:27:44;8998 Vaspör, Munkácsy u. 8.;1963.02.22;1976.10.07;teknős;kutya
+Porkoláb Sára Judit;10.A;pénzügy;l;fekete;5500;történelem;0;4,6;2;Zalaegerszeg;2006.01.10;6:05:47;8900 Zalaegerszeg, Csáfordi forduló 4.;1961.01.22;1987.12.28;teknős;vadászgörény
+Pődör Anna Eliza;10.A;számvitel-gazdálkodás;l;lila;4500;német;0;4,72;2;Zalaegerszeg;2006.09.21;20:15:07;8900 Zalaegerszeg, Gasparich utca 14.;1974.11.10;1984.11.01;tyúk;kutya
+Rép Alexandra;10.A;pénzügy;l;vörös;4500;angol;0;3,22;0;Kistarcsa;2006.03.26;4:35:00;8900 Zalaegerszeg, Göcsej Pataki Ferenc utca 25. 3. em. 9. a;1963.05.03;1962.09.16;tyúk;
+Révész Gergő;10.A;számvitel-gazdálkodás;f;szőke;9500;földrajz;3;1;3;Zalaegerszeg;2007.04.30;22:46:04;8900 Zalaegerszeg, Göcseji Pataki F. u. 22.;1963.01.02;1972.01.22;;
+Rituper Dorina;10.A;szoftverfejlesztő;l;fekete;4500;német;1;1;2;Budapest;2006.06.12;1:55:49;8960 Lenti, Kinizsi utca 34.;1974.11.28;1969.08.22;vadászgörény;
+Szabó Ágnes;10.A;szoftverfejlesztő;l;szőke;9500;földrajz;0;2,45;1;Zalaegerszeg;2006.03.23;14:41:56;8933 Zalaistvánd, Jókai u. 16.;1972.10.09;1985.10.10;vadászgörény;hörcsög
+Szakál Norbert;10.A;rendszergazda;f;fekete;7500;matematika;0;3,8;3;Zalaegerszeg;2006.04.01;23:46:09;8911 Nagykutas, Gyöp u. 58.;1961.09.07;1976.06.05;;
+Szintai László;10.A;rendszergazda;f;kopasz;3500;matematika;0;4,43;2;Zalaegerszeg;2007.08.23;19:46:44;8900 Zalaegerszeg, Juhász Gyula u. 6.;1978.05.14;1972.08.31;kutya;hörcsög
+Takács Nikolett;10.A;rendszergazda;l;vörös;3000;fizika;0;2,42;1;Zalaegerszeg;2006.03.18;4:04:19;8999 Zalalövő, Jókai Mór utca 40.;1986.03.23;1958.01.06;hal;patkány
+Török Ádám;10.A;szoftverfejlesztő;f;vörös;5000;angol;0;4,8;1;Zalaegerszeg;2007.06.15;14:10:44;8900 Zalaegerszeg, Göcseji út 27-29. 3/303;1984.12.17;1952.11.23;ló;
+Török Márton Barnabás;10.A;rendszergazda;f;szőke;7000;informatika;0;4,44;0;Zalaegerszeg;2006.10.15;11:21:21;8900 Zalaegerszeg, Virágzó M.u. 26.;1963.08.08;1958.02.24;;
+Végh Márk;10.A;pénzügy;f;szőke;9500;német;4;1;0;Zalaegerszeg;2007.08.24;4:09:49;8900 Zalaegerszeg, Ciklámen u. 12/C. II/10.;1972.11.23;1970.06.08;kacsa;
+Zsoldos Viktória;10.A;számvitel-gazdálkodás;l;vörös;8500;fizika;3;1;4;Zalaegerszeg;2006.10.01;16:47:50;8900 Zalaegerszeg, Becsali út 31.;1964.08.10;1958.10.25;kígyó;kacsa
+Bellér Vivien;10.B;rendszergazda;l;fekete;10000;fizika;0;2,15;0;Zalaegerszeg;2007.05.28;20:35:22;8900 Zalaegerszeg, Pózva u. 110.;1979.01.22;1977.11.07;teknős;
+Biczó Máté;10.B;szoftverfejlesztő;f;lila;3000;történelem;0;3,33;0;Zalaegerszeg;2007.08.23;11:52:29;8900 Zalaegerszeg, Balatoni út 44.;1964.11.02;1987.09.02;kutya;tyúk
+Csarankó Vivien;10.B;pénzügy;l;kék;5000;rajz;0;2,1;1;Zalaegerszeg;2007.01.30;1:04:27;8761 Pacsa, Gagarin utca 37.;1962.12.27;1964.03.22;hörcsög;hal
+Dala Viktória;10.B;pénzügy;l;szőke;8000;ének;0;4,97;1;Zalaegerszeg;2007.07.11;14:30:24;8977 Lendvajakabfa, Kossuth L. utca 4.;1967.10.15;1973.08.15;hörcsög;patkány
+Deli Kristóf;10.B;szoftverfejlesztő;f;kopasz;3500;informatika;0;3,2;1;Keszthely;2006.04.22;14:51:54;8900 Zalaegerszeg, Kosztolányi Dezső tér 2/C;1979.07.10;1983.06.18;patkány;tyúk
+Eke Melinda;10.B;pénzügy;l;kopasz;5500;matematika;0;3,1;1;Szombathely;2007.02.24;15:37:49;8900 Zalaegerszeg, Ola u. 18/E. III/5.;1983.01.24;1964.03.20;kígyó;hal
+Erdélyi Bence;10.B;pénzügy;f;fekete;7500;angol;0;2,77;1;Zalaegerszeg;2005.11.05;6:28:14;8900 Zalaegerszeg, Pálóczi Horváth Ádám u. 9. II/7. ;1977.06.10;1964.01.07;kacsa;kígyó
+Farkas Alexandra;10.B;szoftverfejlesztő;l;kék;5500;biológia;0;4,68;1;Zalaegerszeg;2006.05.15;3:40:24;8900 Zalaegerszeg, Babits M. u. 5.;1973.09.19;1980.05.17;;
+Frankovics Viktória;10.B;rendszergazda;l;vörös;8000;magyar;1;1;2;Zalaegerszeg;2006.10.13;7:40:40;8900 Zalaegerszeg, Becsali u. 30/A.;1968.04.21;1971.10.25;teknős;tyúk
+Füzesi Ervin;10.B;számvitel-gazdálkodás;f;kék;5500;rajz;0;3,06;2;Nagykanizsa;2006.03.18;4:23:40;8900 Zalaegerszeg, Kosztolányi u. 8/A.I.3.;1974.04.16;1965.03.05;vadászgörény;tyúk
+Gál András;10.B;pénzügy;f;barna;6500;német;0;2,56;1;Zalaegerszeg;2007.02.19;23:56:59;8900 Zalaegerszeg, Toposháza u. 66.;1970.04.22;1973.07.06;;
+Góll Fanny;10.B;szoftverfejlesztő;l;barna;8500;ének;1;1;2;Zalaegerszeg;2006.04.11;11:37:28;8900 Zalaegerszeg, Erdész u. 42.;1989.11.15;1976.10.20;vadászgörény;hörcsög
+Gyuk Barnabás;10.B;pénzügy;f;szőke;4500;matematika;1;1;2;Zalaegerszeg;2006.10.20;18:59:02;8900 Zalaegerszeg, Toldi utca 10. 3. em./5.;1989.04.12;1981.01.19;;
+Horváth Boglárka;10.B;számvitel-gazdálkodás;l;vörös;5500;fizika;0;3,23;0;Zalaegerszeg;2006.09.30;12:48:43;8919 Kustánszeg, Kossuth út 55.;1963.10.24;1973.10.30;patkány;
+Horváth Dániel;10.B;szoftverfejlesztő;f;vörös;7500;ének;1;1;3;Zalaegerszeg;2007.06.18;14:47:08;8897 Söjtör, Petőfi u. 16/B.;1986.09.05;1967.05.31;macska;
+Huszics Anita;10.B;rendszergazda;l;barna;7500;ének;0;2,21;1;Tapolca;2006.11.15;4:56:57;8900 Zalaegerszeg, Avashegyi utca 4. ;1987.04.09;1973.05.17;kutya;ló
+Kele Valentina;10.B;rendszergazda;l;szőke;4000;informatika;0;4,18;1;Zalaegerszeg;2006.02.06;23:52:20;8900 Zalaegerszeg, Rózsás utca 61.;1966.02.03;1987.01.12;vadászgörény;ló
+Kiss József;10.B;szoftverfejlesztő;f;barna;9000;földrajz;0;2,11;0;Zalaegerszeg;2005.10.19;4:26:17;8900 Zalaegerszeg, Halom u. 44.;1974.06.20;1956.04.05;tyúk;patkány
+Klujber Richárd;10.B;rendszergazda;f;kék;6500;magyar;0;4,88;0;Zalaegerszeg;2005.11.14;20:51:59;8900 Zalaegerszeg, Hegyalja u. 11/A. fsz.2.;1981.08.24;1967.07.21;tyúk;kutya
+Kocsis Dániel;10.B;szoftverfejlesztő;f;kék;8500;rajz;0;4,78;2;Zalaegerszeg;2006.05.19;22:36:56;8956 Páka, Béke u. 19.;1976.06.27;1980.11.14;hörcsög;
+Kósi Réka;10.B;számvitel-gazdálkodás;l;lila;7500;rajz;0;3,56;0;Zalaegerszeg;2006.05.09;3:03:40;8893 Bucsuta, Ady Endre út 20.;1987.11.05;1988.04.27;kutya;
+Kovács Martin;10.B;pénzügy;f;barna;8000;ének;1;1;1;Zalaegerszeg;2007.07.02;17:31:12;8900 Zalaegerszeg, Hock J. u. 44.;1973.02.04;1959.06.19;;
+Kövesi János;10.B;szoftverfejlesztő;f;lila;10000;angol;1;1;1;Zalaegerszeg;2006.04.11;18:19:15;8900 Zalaegerszeg, Rózsás u. 68.;1977.05.14;1957.10.29;hal;teknős
+Léránt Krisztián;10.B;szoftverfejlesztő;f;barna;5500;történelem;0;2,62;3;Zalaegerszeg;2007.08.30;4:42:03;9813 Sárfimizdó, Kossuth u. 85.;1988.12.14;1963.04.28;macska;patkány
+Markos Dorina;10.B;pénzügy;l;fekete;10000;magyar;0;4,56;1;Zalaegerszeg;2007.08.25;18:10:34;8790 Zalaszentgrót, Hegyalja utca 10.;1964.01.21;1960.07.05;macska;kutya
+Mazzag Regina;10.B;rendszergazda;l;kopasz;4000;földrajz;0;3,16;1;Zalaegerszeg;2005.11.18;12:15:13;8790 Zalaszentgrót, Batthyány utca 3;1989.03.24;1964.06.04;kacsa;
+Nagy Bendegúz;10.B;pénzügy;f;barna;7000;biológia;0;3,31;2;Nagykanizsa;2007.05.27;21:21:29;8900 Zalaegerszeg, Jókai u. 1.;1987.06.02;1975.05.20;;
+Nagy Norbert József;10.B;pénzügy;f;barna;5000;angol;0;2,9;1;Nagykanizsa;2006.02.01;21:04:55;8900 Zalaegerszeg, Juhász Gyula utca 40.;1989.02.16;1958.08.05;macska;
+Németh Márk;10.B;rendszergazda;f;lila;3500;történelem;0;4,56;1;Zalaegerszeg;2005.10.30;20:13:57;8912 Nagypáli, Arany J. u. 23.;1970.04.05;1974.08.04;vadászgörény;tyúk
+Péter Norbert;10.B;rendszergazda;f;vörös;5500;rajz;0;2,83;1;Zalaegerszeg;2005.12.15;12:29:21;8900 Zalaegerszeg, Göcseji u. 1.4/17.;1970.10.12;1966.11.12;ló;
+Preisinger Károly;10.B;szoftverfejlesztő;f;kopasz;5000;matematika;0;2,26;2;Szeged;2006.12.17;20:15:15;8943 Bocfölde, Kiskuti u. 9.;1979.05.13;1959.10.04;tyúk;hörcsög
+Rékli Vivien;10.B;pénzügy;l;fekete;4000;matematika;2;1;3;Zalaegerszeg;2007.02.19;17:13:40;8900 Zalaegerszeg, Andráshida u. 75.;1980.07.04;1976.07.21;macska;
+Sipos Lilla Viktória;10.B;rendszergazda;l;kopasz;8500;földrajz;0;2,04;1;Zalaegerszeg;2005.09.09;20:11:44;8936 Zalaszentmihály, Jókai u. 22.;1976.08.09;1984.09.04;teknős;teknős
+Sipos Rita;10.B;rendszergazda;l;barna;6500;biológia;2;1;2;Zalaegerszeg;2006.11.26;19:30:31;8925 Bucsuszentlászló, Arany J. utca 13.;1986.08.19;1953.05.12;;
+Szabó Levente László;10.B;rendszergazda;f;fekete;6500;német;0;4,82;1;Zalaegerszeg;2006.01.23;23:14:22;8900 Zalaegerszeg, Jánkahegyi út 1.;1963.03.18;1953.12.16;;
+Szabó Patrik;10.B;számvitel-gazdálkodás;f;lila;6000;magyar;3;1;2;Zalaegerszeg;2006.04.04;9:54:17;8913 Egervár, Dózsa Gy.u.2.;1969.01.08;1982.06.09;hörcsög;hal
+Szalai Adrienn;10.B;rendszergazda;l;fekete;5500;matematika;2;1;2;Körmend;2007.07.18;13:27:27;8936 Zalaszentmihály, Deák u. 11.;1970.07.03;1954.06.11;kutya;tyúk
+Tóth Kitti;10.B;rendszergazda;l;fekete;6500;biológia;1;1;2;Zalaegerszeg;2005.09.25;14:35:32;8900 Zalaegerszeg, Köztársaság u. 77/5/23;1983.12.29;1981.08.23;kacsa;ló
+Zuggó Zoltán;10.B;szoftverfejlesztő;f;szőke;3500;fizika;0;4,9;1;Zalaegerszeg;2006.04.04;9:16:08;8900 Zalaegerszeg, Biró M.u. 28. ;1980.06.24;1958.09.09;;
+Aczél Norbert;10.C;rendszergazda;f;lila;8500;rajz;0;3,34;2;Zalaegerszeg;2005.09.15;22:23:07;8796 Türje, Dózsa Gy. u. 44.;1970.03.17;1987.03.04;vadászgörény;kutya
+Bácsay Márk;10.C;számvitel-gazdálkodás;f;barna;7500;informatika;2;1;2;Zalaegerszeg;2006.06.16;0:29:12;8935 Nagykapornak, Dózsa Gy.u.5.;1970.02.15;1957.12.07;macska;
+Benkő Dominika;10.C;számvitel-gazdálkodás;l;barna;4500;földrajz;0;2,53;3;Zalaegerszeg;2007.05.17;5:33:49;8900 Zalaegerszeg, Kosztolányi tér 2/A;1974.08.18;1977.09.21;kutya;hal
+Cser Alexandra;10.C;szoftverfejlesztő;l;fekete;4500;rajz;0;4,86;1;Zalaegerszeg;2007.02.09;21:06:06;8913 Gősfa , Dózsa Gy. utca 10.;1978.07.04;1978.06.01;kacsa;tyúk
+Darics Viktória;10.C;rendszergazda;l;vörös;3000;magyar;0;3,89;1;Zalaegerszeg;2006.07.12;11:53:27;8951 Gutorfölde, Jókai M. u. 133;1962.09.15;1973.11.04;tyúk;hal
+Horváth Gergő;10.C;számvitel-gazdálkodás;f;vörös;6500;matematika;3;1;0;Zalaegerszeg;2006.07.28;0:03:53;8925 Kisbucsa, Petőfi Sándor u. 1.;1964.06.26;1959.08.14;hal;vadászgörény
+Horváth István;10.C;számvitel-gazdálkodás;f;barna;9000;ének;2;1;1;Zalaegerszeg;2005.11.02;23:18:09;8991 Teskánd, Sport u. 9/B.;1969.10.09;1975.10.16;hörcsög;patkány
+Horváth Márton Áron;10.C;számvitel-gazdálkodás;f;kopasz;9500;ének;0;3,91;2;Zalaegerszeg;2007.05.21;16:29:56;8900 Zalaegerszeg, Gasparich M.u. 13.B. IV/1.;1968.10.04;1971.01.09;patkány;teknős
+Horváth Réka;10.C;rendszergazda;l;lila;8500;informatika;3;1;3;Zalaegerszeg;2006.07.24;0:32:03;8799 Pakod, Vasút út 8.;1981.11.27;1973.08.11;hörcsög;patkány
+Horváth Tamara;10.C;pénzügy;l;vörös;3000;rajz;0;3,73;1;Zalaegerszeg;2006.02.27;7:22:45;8900 Zalaegerszeg, Király u. 8.;1964.12.07;1975.07.28;kígyó;patkány
+Koncz Rebeka;10.C;pénzügy;l;fekete;9000;informatika;0;2,92;4;Zalaegerszeg;2007.03.11;6:44:02;8900 Zalaegerszeg, Batthyány u. 3-7.  2/7.;1965.08.08;1969.07.23;kacsa;teknős
+Kovács Eszter;10.C;számvitel-gazdálkodás;l;szőke;7500;rajz;0;4,5;1;Szombathely;2007.07.15;20:57:59;8919 Kustánszeg, Táncsis út 7.;1963.03.10;1952.08.17;macska;vadászgörény
+Kovács Vivien;10.C;szoftverfejlesztő;l;vörös;4000;matematika;0;3,8;2;Zalaegerszeg;2005.11.10;22:27:50;8900 Zalaegerszeg, Baross G. utca 36.;1962.08.29;1983.06.22;;
+Kutasi Kitti;10.C;rendszergazda;l;vörös;9500;történelem;3;1;0;Zalaegerszeg;2006.05.23;8:34:26;8900 Zalaegerszeg, Ifjúság u. 10/4.;1974.05.25;1961.01.23;macska;teknős
+Markos Dalma;10.C;számvitel-gazdálkodás;l;barna;4000;ének;0;3,4;0;Zalaegerszeg;2005.11.11;11:24:14;8936 Zalaszentmihály, Deák F.utca 71.;1978.06.13;1954.09.22;kígyó;kacsa
+Márkus Marcell Rudolf;10.C;rendszergazda;f;szőke;4000;történelem;0;3,61;1;Zalaegerszeg;2006.03.25;12:04:17;8900 Zalaegerszeg, Rákóczi u. 10-22. 4/51.;1986.07.25;1959.04.11;macska;kacsa
+Mester Amarilla;10.C;számvitel-gazdálkodás;l;fekete;3500;biológia;0;2,35;0;Zalaegerszeg;2007.07.25;9:46:08;8900 Zalaegerszeg, Pázmány P. u. 15.;1962.12.22;1982.10.06;teknős;tyúk
+Molnár Tamás;10.C;szoftverfejlesztő;f;fekete;6000;rajz;0;4,79;0;Zalaegerszeg;2006.04.12;0:58:19;8790 Zalaszentgrót, Szentpéteri út 11.;1978.12.30;1976.04.23;ló;
+Németh Kata;10.C;szoftverfejlesztő;l;szőke;7000;magyar;3;1;1;Zalaegerszeg;2007.05.17;6:11:10;8925 Kisbucsa, Kossuth L.u.28.;1964.03.15;1988.11.24;ló;kutya
+Németh Kinga;10.C;rendszergazda;l;szőke;5000;rajz;0;2,03;2;Zalaegerszeg;2007.04.02;7:47:25;8900 Zalaegerszeg, Ola út 16.;1963.07.06;1969.02.04;hal;kacsa
+Patai Alex;10.C;szoftverfejlesztő;f;barna;5000;fizika;4;1;1;Zalaegerszeg;2006.12.07;15:21:23;8900 Zalaegerszeg, Halom u. 5.;1969.10.24;1976.12.01;kacsa;teknős
+Pup Heléna;10.C;szoftverfejlesztő;l;barna;3500;informatika;0;4,38;4;Zalaegerszeg;2006.07.09;20:42:14;8945 Bak, Rózsa u. 37.;1974.09.25;1986.02.28;kutya;kutya
+Salamon Bettina;10.C;szoftverfejlesztő;l;fekete;9500;ének;0;4,93;1;Zalaegerszeg;2006.09.16;4:04:33;8983 Nagylengyel, Cser u. 23.;1972.01.20;1967.01.03;;
+Sali Xénia;10.C;számvitel-gazdálkodás;l;kék;6500;német;3;1;1;Zalaegerszeg;2006.04.27;2:02:25;8782 Zalacsány, Hegy utca 2.;1975.06.20;1967.07.13;kutya;
+Simon Tímea;10.C;pénzügy;l;kopasz;8500;történelem;0;4,89;2;Keszthely;2005.09.23;19:55:02;8900 Zalaegerszeg, Rákóczi u. 40.;1984.06.27;1983.07.27;teknős;patkány
+Soós Ferenc;10.C;rendszergazda;f;barna;7500;biológia;0;2;4;Zalaegerszeg;2005.12.07;9:06:09;8900 Zalaegerszeg, Borostyán sor 22/B;1986.11.17;1957.02.21;teknős;macska
+Sóvágó Dominika Ivett ;10.C;rendszergazda;l;fekete;4500;ének;0;4,86;2;Zalaegerszeg;2006.06.20;21:29:27;8942 Csatár, Dózsa Gy. u. 42. ;1965.04.17;1981.11.22;hal;macska
+Szabó Krisztián;10.C;számvitel-gazdálkodás;f;kék;5500;magyar;1;1;1;Zalaegerszeg;2005.10.09;1:53:14;8900 Zalaegerszeg, Erdész utca 79. ;1977.10.22;1952.04.23;macska;
+Szabó Sándor;10.C;pénzügy;f;kopasz;8000;biológia;0;2,89;0;Zalaegerszeg;2007.08.11;14:20:17;8994 Kávás, Petőfi u. 7.;1974.02.16;1980.08.23;teknős;
+Tombor Boglárka;10.C;szoftverfejlesztő;l;szőke;6000;történelem;0;4,79;3;Körmend;2007.05.22;9:19:31;8981 Lickóvadamos, Fő u. 2/A;1981.07.19;1981.08.18;macska;hal
+Vass Klaudia;10.C;szoftverfejlesztő;l;vörös;3000;német;1;1;1;Zalaegerszeg;2007.03.12;8:02:23;8900 Zalaegerszeg, Ola u. 34. ;1977.08.15;1954.01.14;kacsa;vadászgörény
+Viszmeg Nikolett;10.C;rendszergazda;l;barna;6000;magyar;0;3,07;1;Zalaegerszeg;2006.04.24;2:40:59;8900 Zalaegerszeg, Nemzetőr u. 32. C/1.;1984.09.09;1968.04.18;vadászgörény;kígyó
+Agnes Vinghammar;10.D;számvitel-gazdálkodás;l;vörös;6000;informatika;4;1;1;Falun;2006.09.02;4:48:57;8900 Zalaegerszeg, Vörösmarty u. 24/C. ;1983.06.05;1956.07.10;macska;kutya
+Balassa Péter;10.D;pénzügy;f;barna;8500;fizika;0;3,1;1;Zalaegerszeg;2006.07.08;17:38:09;8944 Sárhida, Pacsirta út 12.;1965.12.04;1968.12.18;hörcsög;
+Bódis Bettina Tünde;10.D;pénzügy;l;barna;4500;történelem;0;2,05;0;Zalaegerszeg;2005.11.26;21:10:35;8945 Bak, Rákóczi F. utca 99.;1961.12.12;1953.07.03;ló;kígyó
+Bognár Gabriella Kitti;10.D;szoftverfejlesztő;l;kopasz;3500;magyar;0;3,13;2;Zalaegerszeg;2007.08.07;14:51:25;8991 Böde, Petőfi S. utca 5.;1980.04.12;1982.12.19;;
+Cséve Dominika;10.D;rendszergazda;l;barna;9000;ének;0;4,34;0;Zalaegerszeg;2006.07.31;7:23:07;8900 Zalaegerszeg, Andráshida u. 79. ;1963.06.04;1975.08.20;teknős;hal
+Fincza Kristóf;10.D;számvitel-gazdálkodás;f;szőke;9000;informatika;0;2,84;1;Zalaegerszeg;2006.03.25;9:42:23;8900 Zalaegerszeg, Botfy L.u. 39.;1979.03.11;1968.06.11;kacsa;
+Halász Bence;10.D;rendszergazda;f;vörös;8500;magyar;0;5;1;Keszthely;2005.09.17;18:38:14;8790 Zalaszentgrót, Batthyány utca 26/B.;1968.04.30;1953.04.12;;
+Hegedüs Lilla Katalin;10.D;rendszergazda;l;barna;6500;földrajz;0;2,89;1;Zalaegerszeg;2006.10.09;17:51:45;8981 Gellénháza, Orgona utca 7.;1984.03.19;1981.08.20;kígyó;ló
+Horváth Kitti;10.D;számvitel-gazdálkodás;l;vörös;9000;rajz;0;4,55;2;Keszthely;2006.08.19;7:12:17;8992 Bagod, Vasút u. 5.;1988.12.11;1953.08.25;hal;tyúk
+Horváth Levente;10.D;rendszergazda;f;vörös;6000;matematika;0;3,58;0;Keszthely;2006.05.02;4:09:52;8900 Zalaegerszeg, Irinyi J. u. 5.;1975.06.12;1987.02.25;ló;
+Józsa Krisztina;10.D;rendszergazda;l;kopasz;3500;fizika;4;1;1;Zalaegerszeg;2005.12.29;5:35:32;8900 Zalaegerszeg, Kispest u. 1.;1983.11.04;1963.08.27;teknős;
+Kenderes Csaba;10.D;pénzügy;f;kopasz;6000;ének;0;3,42;2;Zalaegerszeg;2006.07.23;0:28:49;8983 Babosdöbréte, Zrínyi M. út 2/a;1961.12.08;1969.11.22;kutya;tyúk
+Kern Borbála Sára;10.D;pénzügy;l;vörös;6000;magyar;0;4,93;1;Zalaegerszeg;2007.04.03;19:38:29;8897 Söjtör, Szabadság u. 28.;1972.07.19;1955.09.29;tyúk;ló
+Kiss Gergő;10.D;rendszergazda;f;kopasz;5000;történelem;0;3,52;2;Szombathely;2005.10.18;10:06:21;8900 Zalaegerszeg, Kinizsi P. út 76 D;1968.04.04;1981.03.13;tyúk;ló
+Knöfel Nicole;10.D;rendszergazda;l;barna;5000;földrajz;0;2,38;1;Zalaegerszeg;2007.07.12;18:47:35;8918 Csonkahegyhát, Eperjes utca 5. ;1968.03.17;1972.01.20;tyúk;kutya
+Kovács Dalma;10.D;rendszergazda;l;barna;4000;angol;0;4,18;3;Zalaegerszeg;2006.12.31;4:37:42;8900 Zalaegerszeg, Zala u. 2/A. fsz. 2. ;1975.05.02;1968.09.26;macska;
+Kovács Tibor Patrik;10.D;pénzügy;f;fekete;3000;történelem;0;2,03;2;Zalaegerszeg;2007.01.17;11:04:17;8900 Zalaegerszeg, Kosztolányi tér 2/B;1965.07.23;1985.06.11;teknős;
+Kustor Tamás Zsolt;10.D;rendszergazda;f;vörös;3500;földrajz;0;3,67;0;Zalaegerszeg;2006.10.09;3:11:47;8771 Hahót, Zrínyi M. u. 183. ;1980.10.21;1957.02.01;patkány;macska
+Lapat Luca;10.D;pénzügy;l;szőke;4500;matematika;0;2,78;0;Zalaegerszeg;2006.07.09;16:29:25;8900 Zalaegerszeg, Bethlem G.u. 10.;1974.12.25;1966.04.12;kutya;macska
+Magyar Dávid;10.D;számvitel-gazdálkodás;f;kopasz;10000;földrajz;0;3,14;0;Zalaegerszeg;2005.11.13;20:19:14;8999 Zalalövő, Margaréta u. 33.;1973.09.05;1968.07.28;ló;patkány
+Mihók Réka;10.D;pénzügy;l;vörös;7500;rajz;1;1;0;Zalaegerszeg;2005.09.08;2:13:07;8900 Zalaegerszeg, Gébárti út 126.;1970.10.23;1956.04.04;kutya;hal
+Molnár Ádám József;10.D;rendszergazda;f;barna;6500;történelem;0;4,27;2;Zalaegerszeg;2006.08.24;4:48:13;8942 Csatár, Dózsa u. 2.;1982.04.09;1988.04.06;kígyó;hal
+Nagy Réka;10.D;rendszergazda;l;vörös;7000;rajz;1;1;1;Zalaegerszeg;2006.01.02;0:36:25;8900 Zalaegerszeg, Hét vezér út 10.;1967.05.16;1986.05.15;kacsa;ló
+Pallanki Zsolt;10.D;rendszergazda;f;barna;3000;angol;0;3,9;1;Zalaegerszeg;2005.12.27;8:31:48;8983 Nagylengyel, Arany J.u.48.;1973.05.22;1981.03.03;;
+Pintér Ádám;10.D;számvitel-gazdálkodás;f;vörös;10000;német;0;3,13;0;Zalaegerszeg;2005.10.03;10:36:34;8936 Zalaszentmihály, Deák u. 26.;1968.07.01;1982.11.08;macska;
+Porkoláb Csaba Gergő;10.D;szoftverfejlesztő;f;fekete;6000;fizika;1;1;0;Zalaegerszeg;2006.05.04;11:22:54;8900 Zalaegerszeg, Átalszegett u. 23/C.;1985.10.26;1974.04.22;ló;kutya
+Rudas Marcell;10.D;szoftverfejlesztő;f;fekete;8500;ének;0;2,26;3;Zalaegerszeg;2005.11.10;17:58:06;8900 Zalaegerszeg, Rómer Flóris utca 3.;1961.02.16;1969.01.12;tyúk;tyúk
+Simon Anna;10.D;rendszergazda;l;szőke;9000;magyar;0;3,18;1;Körmend;2006.08.16;5:36:07;8981 Gellénháza, Kossuth u. 29.;1978.03.17;1980.07.10;macska;ló
+Simon Liliána;10.D;számvitel-gazdálkodás;l;kék;3000;angol;0;2,62;3;Zalaegerszeg;2006.06.25;17:17:30;8918 Csonkahegyhát, Kossuth u. 23.;1978.05.26;1957.09.24;;
+Simon Norbert;10.D;számvitel-gazdálkodás;f;szőke;7000;rajz;0;4,99;1;Budapest;2006.09.20;7:45:34;8900 Zalaegerszeg, Landorhegyi u. 22. A;1979.02.18;1973.05.17;patkány;
+Szabó Dániel;10.D;szoftverfejlesztő;f;fekete;8500;informatika;1;1;0;Zalaegerszeg;2006.04.03;5:21:05;8900 Zalaegerszeg, Pacsirta utca 13.;1974.10.12;1979.11.30;;
+Szegleti Gergő Krisztián;10.D;számvitel-gazdálkodás;f;barna;3500;ének;1;1;3;Zalaegerszeg;2006.06.16;0:20:40;8900 Zalaegerszeg, Építők útja 11 3/9;1962.05.18;1953.12.08;tyúk;teknős
+Toplak Szabolcs;10.D;számvitel-gazdálkodás;f;szőke;6500;matematika;2;1;1;Körmend;2007.08.25;0:03:27;9934 Hegyhátszentjakab, Kossuth Lajos utca 32.;1970.08.04;1972.01.16;kutya;ló
+Tormássy Norbert;10.D;pénzügy;f;fekete;7500;rajz;0;4,87;1;Zalaegerszeg;2005.11.19;7:04:22;8956 Páka, Ifjúság u. 18/B;1978.12.16;1987.06.28;kutya;
+Vizi Benjámin;10.D;rendszergazda;f;lila;8500;ének;0;3,41;0;Zalaegerszeg;2007.01.14;17:07:03;8900 Zalaegerszeg, Szövetkezeti u. 16.;1971.02.12;1971.01.23;macska;macska
+Ágoston Nóra;11.A;számvitel-gazdálkodás;l;szőke;4000;angol;0;3,14;0;Körmend;2004.10.30;2:58:37;8900 Zalaegerszeg, Mártírok útja 17.;1985.02.07;1985.12.16;;
+Bagó Médea;11.A;szoftverfejlesztő;l;lila;10000;földrajz;0;2,47;2;Zalaegerszeg;2004.12.04;15:11:53;8782 Zalacsány, Csány L.u. 27. ;1980.04.14;1983.04.08;patkány;kutya
+Bajsz Tamás Patrik;11.A;rendszergazda;f;fekete;5000;matematika;3;1;0;Zalaegerszeg;2005.03.20;20:23:32;8900 Zalaegerszeg, Gönczi F. utca 2.;1976.01.09;1985.01.22;teknős;macska
+Bakó Tamás;11.A;rendszergazda;f;szőke;4000;angol;0;2,7;1;Zalaegerszeg;2006.06.19;1:51:16;8795 Zalaszentgrót, Csáfordi út 32.;1961.09.13;1952.06.10;kutya;
+Boronyák Bence;11.A;rendszergazda;f;vörös;4000;angol;0;3,22;1;Zalaegerszeg;2006.06.28;3:39:42;8900 Zalaegerszeg, Landorhegyi út 25.;1987.01.16;1973.03.06;;
+Büki Boglárka;11.A;számvitel-gazdálkodás;l;barna;10000;német;0;3,74;2;Zalaegerszeg;2005.12.07;8:37:58;8900 Zalaegerszeg, Alsóerdei u. 5/B. 3/13.;1984.11.03;1976.10.27;kígyó;hal
+Csabai Abigél;11.A;szoftverfejlesztő;l;vörös;6000;történelem;0;5;1;Zalaegerszeg;2004.09.26;9:40:14;8992 Bagod, Faluház u. 7.;1963.04.10;1971.06.10;tyúk;
+Domján Noémi;11.A;számvitel-gazdálkodás;l;szőke;5000;német;1;1;2;Zalaegerszeg;2004.11.20;14:54:19;8900 Zalaegerszeg, Petőfi köz 2. B lph. 2. em. 7. a;1977.01.29;1971.04.02;patkány;teknős
+Farkas Eszter;11.A;szoftverfejlesztő;l;barna;4000;magyar;1;1;1;Zalaegerszeg;2006.03.06;20:13:35;8900 Zalaegerszeg, Bartók Béla utca 33.;1970.07.27;1977.11.21;vadászgörény;kacsa
+Fitos Judit;11.A;számvitel-gazdálkodás;l;fekete;4500;földrajz;0;4,4;2;Zalaegerszeg;2005.09.04;16:09:31;8900 Zalaegerszeg, Landorhegyi u. 32. 10/60. ;1969.11.22;1953.12.02;macska;
+Fodróczy Ágnes;11.A;számvitel-gazdálkodás;l;szőke;6500;földrajz;1;1;1;Zalaegerszeg;2006.08.25;12:18:33;9821 Győrvár, Új Élet u. 15.;1962.11.19;1954.12.29;macska;kígyó
+Fülöp Laura;11.A;számvitel-gazdálkodás;l;kopasz;5500;német;1;1;1;Zalaegerszeg;2005.04.25;9:18:17;8935 Misefa, Akácfa utca 9.;1971.01.05;1980.10.15;teknős;macska
+Gaál Nikolett;11.A;számvitel-gazdálkodás;l;barna;5500;informatika;0;3,14;0;Zalaegerszeg;2004.12.26;14:18:23;8900 Zalaegerszeg, Hegyalja út 58. fsz. 1.;1969.07.27;1961.01.26;macska;vadászgörény
+Geráth Dániel;11.A;számvitel-gazdálkodás;f;lila;9500;rajz;4;1;2;Zalaegerszeg;2006.02.24;20:52:37;8896 Pusztaszentlászló, Kossuth u. 56.;1972.08.21;1953.09.22;patkány;hörcsög
+Halász Franciska;11.A;rendszergazda;l;szőke;9000;magyar;0;2,66;2;Zalaegerszeg;2006.01.07;5:14:08;8946 Tófej, Bartók Béla utca 20.;1965.08.11;1972.02.14;;
+Herbai Ádám;11.A;pénzügy;f;vörös;9500;magyar;1;1;0;Zalaegerszeg;2006.08.21;7:20:24;8900 Zalaegerszeg, Göcseji u. 45. 5/50.;1987.12.05;1988.02.13;macska;
+Holics Aliz;11.A;szoftverfejlesztő;l;fekete;6500;magyar;0;4,95;1;Körmend;2004.11.05;2:50:17;8900 Zalaegerszeg, Egry J.u. 8/B.;1975.09.25;1985.05.25;;
+Juhász Veronika;11.A;pénzügy;l;barna;5000;német;0;2,33;4;Kézdivásárhely;2005.05.06;2:13:15;8913 Egervár, Dénesfai u. 1.;1980.05.24;1961.01.19;;
+Kovács Barbara;11.A;szoftverfejlesztő;l;szőke;3000;ének;0;2,69;0;Zalaegerszeg;2005.10.04;4:29:15;8900 Zalaegerszeg, Eötvös József utca 12. A lph.3. em. 5.;1978.12.18;1985.02.01;;
+Körmendi Szilárd;11.A;szoftverfejlesztő;f;fekete;5500;földrajz;0;4,11;1;Zalaegerszeg;2005.09.01;4:01:18;8900 Zalaegerszeg, Gasparich u. 14/B.;1974.06.23;1979.12.13;hal;
+Kránicz Mirjam Anna;11.A;szoftverfejlesztő;l;kék;3000;fizika;0;4,9;1;Zalaegerszeg;2005.05.25;20:43:42;8915 Nemesrádó, Ady u. 76.;1984.01.21;1982.08.08;ló;teknős
+Krisbaum Kornélia ;11.A;szoftverfejlesztő;l;kopasz;9000;magyar;0;3,33;1;Zalaegerszeg;2006.08.13;9:34:24;8895 Pusztamagyaród, Fő út 48.;1967.09.05;1953.07.13;macska;vadászgörény
+Márton Renáta;11.A;számvitel-gazdálkodás;l;barna;5500;földrajz;0;3,77;2;Budapest;2005.08.19;13:35:23;8913 Lakhegy, Petőfi Sándor utca 57.;1977.09.25;1954.01.03;tyúk;teknős
+Németh Fanni;11.A;számvitel-gazdálkodás;l;barna;3500;ének;0;3,5;0;Zalaegerszeg;2006.01.23;19:34:42;8900 Zalaegerszeg, Madách I.u. 22. 1/12.;1988.12.26;1977.07.02;kígyó;kutya
+Németh Gergely;11.A;szoftverfejlesztő;f;szőke;9500;biológia;0;3,4;1;Zalaegerszeg;2006.07.19;5:46:07;8960 Lenti, Szombathelyi út 78.;1985.02.17;1969.03.29;hal;kutya
+Németh Kinga;11.A;rendszergazda;l;vörös;8500;angol;0;3,99;1;Zalaegerszeg;2006.03.23;4:38:56;8797 Batyk, Dózsa u. 20.;1980.04.03;1985.05.12;ló;kígyó
+Pethő Patrik;11.A;rendszergazda;f;szőke;9500;biológia;0;3,12;4;Zalaegerszeg;2005.06.18;19:37:53;8900 Zalaegerszeg, Berzsenyi D.utca 5.;1977.05.28;1966.06.03;patkány;hal
+Simon Kevin Krisztián;11.A;szoftverfejlesztő;f;fekete;5000;német;0;2;2;Zalaegerszeg;2005.04.22;18:38:58;8945 Bak, József A. u. 6.;1984.08.30;1974.12.01;macska;kígyó
+Steiner Alexandra;11.A;rendszergazda;l;barna;6000;rajz;4;1;3;Zalaegerszeg;2006.06.27;7:51:33;8900 Zalaegerszeg, Landorhegyi utca 28.;1980.11.06;1965.03.05;vadászgörény;vadászgörény
+Szabó Anett;11.A;rendszergazda;l;szőke;4500;angol;0;3,85;1;Zalaegerszeg;2005.02.13;8:52:18;8897 Söjtör, Deák f. utca 106/b;1984.02.23;1981.09.26;kacsa;ló
+Szipőcs Alexandra;11.A;rendszergazda;l;lila;4000;informatika;1;1;1;Zalaegerszeg;2004.09.07;3:50:38;8900 Zalaegerszeg, Madách utca 8.;1987.06.22;1962.01.10;;
+Tóth Alíz;11.A;rendszergazda;l;kopasz;4000;fizika;1;1;0;Zalaegerszeg;2004.12.15;17:31:42;8900 Zalaegerszeg, Kosztolányi D. tér 2/c;1981.12.09;1981.07.29;hal;kígyó
+Ágh Viktória;11.B;pénzügy;l;szőke;6000;angol;0;3,75;1;Zalaegerszeg;2004.12.13;7:21:44;8900 Zalaegerszeg, Hegyalja u. 19. 2/6. ;1967.04.01;1978.04.04;teknős;vadászgörény
+Albrecht Blanka;11.B;rendszergazda;l;fekete;4500;biológia;1;1;2;Keszthely;2005.11.25;15:35:15;8900 Zalaegerszeg, Rózsás u. 67.;1986.07.01;1959.03.19;tyúk;kígyó
+Bajzek Alexandra Inez;11.B;rendszergazda;l;barna;6000;ének;1;1;0;Zalaegerszeg;2006.04.14;21:37:42;8900 Zalaegerszeg, Bóbita út 13.;1988.04.13;1982.02.01;hal;ló
+Bakányi Barnabás;11.B;számvitel-gazdálkodás;f;kék;8000;angol;3;1;1;Zalaegerszeg;2005.08.02;14:00:46;8900 Zalaegerszeg, Mártírok útja 31.3/6.;1973.07.09;1983.10.01;kutya;vadászgörény
+Baksa Dániel;11.B;rendszergazda;f;vörös;5500;magyar;2;1;3;Zalaegerszeg;2005.07.17;15:09:50;8900 Zalaegerszeg, Disz tér 5.  2/4;1970.06.27;1976.09.14;teknős;macska
+Bali Szilárd;11.B;pénzügy;f;szőke;8000;biológia;2;1;3;Keszthely;2006.03.25;14:36:16;8380 Hévíz, Semmelweis u. 5.;1984.06.16;1954.01.18;hal;ló
+Bonczók-Sáfrán Benjamin;11.B;számvitel-gazdálkodás;f;vörös;7000;ének;0;3,29;4;Zalaegerszeg;2005.04.04;3:45:54;8774 Gelse, Dózsa Gy. u. 41.;1986.11.26;1984.06.04;ló;kutya
+Cséber Dominika;11.B;pénzügy;l;barna;9000;rajz;0;4,12;0;Zalaegerszeg;2006.04.12;10:34:59;8900 Zalaegerszeg, Zala u. 2/A.fsz.2.;1979.05.15;1971.02.27;kígyó;patkány
+Dömők Ákos;11.B;rendszergazda;f;barna;3000;angol;0;3,92;1;Zalaegerszeg;2005.06.26;14:37:01;8900 Zalaegerszeg, Biró M. u. 7. 3/7.;1981.07.20;1966.08.05;;
+Flander Richárd;11.B;pénzügy;f;kék;7000;német;0;2,33;1;Zalaegerszeg;2006.05.08;18:51:58;8900 Zalaegerszeg, Móra Ferenc u. 2.;1965.02.27;1982.03.07;kacsa;macska
+Garamvölgyi Márk;11.B;pénzügy;f;szőke;8500;fizika;0;3,98;1;Zalaegerszeg;2006.03.10;14:48:13;8900 Zalaegerszeg,Landorhegyi u. 28. 10/63.;1972.10.30;1987.06.21;;
+Hajba Áron;11.B;szoftverfejlesztő;f;barna;5500;angol;3;1;1;Zalaegerszeg;2006.08.27;4:42:20;8900 Zalaegerszeg, Széperdő u. hrsz.20358;1982.06.15;1983.06.02;kacsa;
+Halász Olivér;11.B;számvitel-gazdálkodás;f;fekete;9000;rajz;1;1;2;Tapolca;2005.01.30;16:31:45;8900 Zalaegerszeg, Gévahegyi u. hrsz 21709/5.;1971.01.31;1963.08.24;hal;
+Horváth Dávid Alex;11.B;pénzügy;f;vörös;10000;történelem;0;2,42;3;Zalaegerszeg;2006.03.21;23:29:38;8917 Milejszeg, Petőfi utca 68.;1962.11.19;1961.09.27;vadászgörény;
+Horváth Dóra;11.B;szoftverfejlesztő;l;vörös;7500;földrajz;0;2,52;2;Zalaegerszeg;2005.01.04;13:22:52;8947 Zalatárnok, Kossuth u. 14.;1969.02.15;1976.06.14;kígyó;macska
+Juhász Anett;11.B;pénzügy;l;barna;8000;informatika;3;1;2;Zalaegerszeg;2004.11.30;1:04:09;8900 Zalaegerszeg, Bartók Béla út 22.;1981.01.22;1973.11.23;kígyó;kacsa
+Kámán Benedek;11.B;számvitel-gazdálkodás;f;lila;10000;angol;1;1;1;Zalaegerszeg;2005.02.12;16:44:34;8900 Zalaegerszeg, Madách Imre utca 22. 4. em. 27. a;1969.02.04;1980.03.25;patkány;macska
+Kocsis Dávid;11.B;pénzügy;f;szőke;3000;német;0;3,32;1;Zalaegerszeg;2005.08.27;10:49:53;8900 Zalaegerszeg, Kisbükk dűlő 7.;1971.06.23;1979.09.16;kacsa;
+Konrád Balázs;11.B;számvitel-gazdálkodás;f;barna;5500;ének;2;1;1;Zalaegerszeg;2004.09.19;6:51:04;8934 Bezeréd, Virág utca 9.;1970.05.04;1968.03.06;patkány;
+Kovács Petra;11.B;rendszergazda;l;lila;3000;német;0;2,12;2;Budapest;2006.04.30;17:46:00;8900 Zalaegerszeg, Gönczi Ferenc utca 2.;1975.03.16;1983.05.02;hal;hörcsög
+Kovács Roland;11.B;számvitel-gazdálkodás;f;fekete;7000;ének;0;2,08;0;Zalaegerszeg;2005.12.10;4:24:16;8911 Kiskutas, Fő u. 1/F.;1984.12.22;1957.10.01;kacsa;teknős
+Le Thanh Tung ;11.B;pénzügy;f;barna;8500;magyar;0;3,3;2;Zalaegerszeg;2004.11.05;3:56:23;8790 Zalaszentgrót, Bajcsy-Zs. U. 1.;1963.03.21;1982.05.06;kígyó;hal
+Lengyel Lilla Anna ;11.B;szoftverfejlesztő;l;kék;3500;rajz;0;2,93;2;Nagyatád;2006.04.30;0:30:24;8900 Zalaegerszeg, Vizslaparki utca 44/C.;1989.09.27;1959.08.26;ló;ló
+Lőrinc Rebeka Lídia;11.B;számvitel-gazdálkodás;l;szőke;3500;történelem;0;3,32;0;Zalaegerszeg;2004.09.25;19:15:13;8995 Salomvár, Dózsa György u. 27.;1973.03.22;1974.10.22;macska;tyúk
+Magyar Martina;11.B;számvitel-gazdálkodás;l;vörös;8000;informatika;3;1;2;Zalaegerszeg;2006.03.20;19:57:36;8897 Söjtör, Kossuth u. 36.;1965.05.06;1984.11.29;;
+Miklós Tímea;11.B;pénzügy;l;kopasz;8500;matematika;2;1;1;Budapest;2005.02.27;8:35:17;8897 Söjtör, Kossuth u. 22.;1978.02.05;1972.10.19;teknős;vadászgörény
+Molnár Martin;11.B;számvitel-gazdálkodás;f;szőke;7500;angol;0;2,96;2;Zalaegerszeg;2005.05.17;0:25:44;8912 Kispáli, Kossuth u. 10-.;1962.03.27;1956.10.04;;
+Nagy Veronika;11.B;pénzügy;l;fekete;4500;földrajz;0;3,28;1;Zalaegerszeg;2005.04.14;13:59:52;8900 Zalaegerszeg, Vizslaparki utca 23.;1972.01.20;1961.11.17;kígyó;teknős
+Oláh Áron;11.B;pénzügy;f;lila;5500;ének;0;4,87;3;Keszthely;2006.02.09;1:54:49;8900 Zalaegerszeg, Holub u. 12.;1965.05.11;1960.02.01;macska;macska
+Orbán Ivett;11.B;pénzügy;l;fekete;6000;informatika;0;2,25;4;Zalaegerszeg;2004.11.26;14:02:21;8992 Bagod, Deák u. 7.;1974.05.18;1971.05.06;kígyó;
+Orbán Szilárd;11.B;szoftverfejlesztő;f;szőke;9500;informatika;0;3,45;0;Nagykanizsa;2006.03.04;18:36:54;8900 Zalaegerszeg, Cinke u. 6. II/17.;1988.10.17;1984.10.17;tyúk;ló
+Ravasz Tamás;11.B;szoftverfejlesztő;f;kopasz;10000;biológia;3;1;1;Zalaegerszeg;2004.11.16;17:14:04;8992 Boncodfölde, Dózsa u. 23/A.;1960.04.24;1984.01.08;kígyó;patkány
+Rózsás Nóra;11.B;szoftverfejlesztő;l;szőke;4500;rajz;0;2,75;3;Keszthely;2005.10.04;11:23:19;8900 Zalaegerszeg, Nemzetőr u. 32/C. ;1970.04.19;1985.12.03;hörcsög;kutya
+Szabó Alexandra;11.B;pénzügy;l;lila;8000;magyar;0;3,26;2;Zalaegerszeg;2004.09.29;1:42:46;8900 Zalaegerszeg, Pintér M.u. 6.;1965.01.16;1960.12.20;teknős;vadászgörény
+Szép Zoltán;11.B;szoftverfejlesztő;f;barna;3500;matematika;0;4,83;2;Zalaegerszeg;2005.07.16;1:43:37;8900 Zalaegerszeg, Budai Völgyi út 24. Pl 2.;1976.06.17;1967.07.26;kígyó;teknős
+Tóth Nikolett;11.B;számvitel-gazdálkodás;l;fekete;9000;történelem;0;2,95;0;Zalaegerszeg;2006.06.07;13:58:04;8900 Zalaegerszeg, Berzsenyi u. 11. 8/49.;1985.07.26;1982.08.29;;
+Vörös Ákos;11.B;számvitel-gazdálkodás;f;kék;4500;biológia;0;2,85;1;Zalaegerszeg;2005.08.12;13:51:26;8900 Zalaegerszeg, Honvéd utca 19.;1971.09.24;1960.08.28;ló;kacsa
+Zóka Dániel;11.B;szoftverfejlesztő;f;vörös;3500;magyar;0;4;3;Zalaegerszeg;2006.05.23;5:25:20;8900 Zalaegerszeg, Köztársaság utca  85.;1990.03.13;1953.08.16;patkány;
+Bencze Botond;11.C;pénzügy;f;szőke;9500;történelem;0;3,3;1;Zalaegerszeg;2006.07.29;6:15:03;8900 Zalaegerszeg, Átalszegett utca 171. II./20;1972.06.02;1978.02.23;patkány;teknős
+Bódis Norbert;11.C;rendszergazda;f;kopasz;9500;német;0;2,9;0;Zalaegerszeg;2004.11.07;21:36:54;8900 Zalaegerszeg, Alsójánkahegyi u. 22.;1977.09.07;1956.10.13;ló;hal
+Czömpöl Bianka;11.C;számvitel-gazdálkodás;l;barna;9000;ének;0;2,79;0;Zalaegerszeg;2004.09.23;2:26:10;9825 Oszkó, Rákóczi Ferenc utca 137/a;1972.06.27;1968.11.28;;
+Csákits Zsuzsanna;11.C;számvitel-gazdálkodás;l;fekete;9500;biológia;2;1;3;Zalaegerszeg;2005.11.22;18:58:42;8931 Kemendollár, Dózsa Gy.utca 33.;1979.06.18;1977.03.04;hal;kacsa
+Fehér Barbara;11.C;szoftverfejlesztő;l;szőke;8000;matematika;0;3,13;1;Zalaegerszeg;2005.10.18;1:19:43;8900 Zalaegerszeg, Sas utca 8/4;1969.10.01;1953.01.20;kacsa;tyúk
+Gaál Barbara;11.C;szoftverfejlesztő;l;barna;10000;földrajz;0;3,9;1;Pásztó;2004.10.10;17:02:07;8900 Zalaegerszeg, Csácsi út 115. ;1969.09.17;1984.06.02;teknős;hörcsög
+Gyenge Barbara Valéria;11.C;szoftverfejlesztő;l;szőke;9500;matematika;1;1;1;Zalaegerszeg;2006.04.05;17:08:44;8900 Zalaegerszeg, Bíró Márton utca 8.;1987.10.03;1960.10.02;tyúk;vadászgörény
+Hantos Barnabás;11.C;rendszergazda;f;vörös;3500;fizika;0;2,9;0;Zalaegerszeg;2006.06.18;17:43:16;8900 Zalaegerszeg, Köztársaság u. 87. 10/62.;1975.12.15;1954.01.01;ló;kacsa
+Joó Fanni;11.C;rendszergazda;l;szőke;6000;történelem;0;2,99;3;Zalaegerszeg;2005.03.28;21:38:45;8900 Zalaegerszeg, Göcseji út 45. 5/51.;1971.05.14;1977.07.05;;
+Kálmán Kitti;11.C;szoftverfejlesztő;l;szőke;4000;ének;0;4,68;2;Zalaegerszeg;2006.01.15;9:13:52;8900 Zalaegerszeg, Gönczi F. u. 15.;1989.11.29;1971.11.15;kígyó;tyúk
+Kelemen Marcell;11.C;pénzügy;f;szőke;5000;magyar;0;3,59;2;Zalaegerszeg;2004.11.22;9:39:23;8900 Zalaegerszeg, Bazitai u. 71.;1987.06.19;1969.02.05;macska;kacsa
+Kocsi Bálint;11.C;szoftverfejlesztő;f;szőke;8500;magyar;0;4,06;1;Zalaegerszeg;2006.03.20;1:31:38;8991 Hottó, Kossuth L.u. 5/A. ;1978.02.16;1957.12.27;kígyó;
+Kocsis Viktor;11.C;számvitel-gazdálkodás;f;szőke;5000;német;1;1;0;Zalaegerszeg;2004.10.04;2:25:19;8900 Zalaegerszeg, Köztársaság út 81.;1984.09.28;1969.10.11;hal;kutya
+Lucz Vanessza Benita;11.C;rendszergazda;l;vörös;9000;angol;0;2,04;1;Zalaegerszeg;2004.11.06;6:09:58;8900 Zalaegerszeg, Kert utca 1.;1977.10.26;1965.06.17;hörcsög;vadászgörény
+Martinov Zoltán;11.C;szoftverfejlesztő;f;fekete;9000;ének;0;2,33;1;Zalaegerszeg;2006.02.17;16:35:24;8913 Egervár, Temető utca 6;1968.03.31;1954.09.22;patkány;kacsa
+Mészáros Milán;11.C;rendszergazda;f;kék;10000;ének;0;3,95;0;Zalaegerszeg;2005.05.30;22:25:35;8900 Zalaegerszeg, Berzsenyi u. 20. 1/12.;1984.03.22;1969.12.18;ló;teknős
+Molnár Dávid;11.C;rendszergazda;f;kopasz;4000;történelem;2;1;3;Zalaegerszeg;2006.06.02;10:21:01;8935 Misefa, Ország u. 29.;1964.01.19;1955.09.26;ló;kacsa
+Németh Kitti;11.C;pénzügy;l;vörös;6000;fizika;0;3,51;1;Zalaegerszeg;2005.06.07;0:34:38;8900 Zalaegerszeg, Göcseji-Pataki F.u. 24.;1971.03.11;1951.10.23;hörcsög;hal
+Novák Anna;11.C;számvitel-gazdálkodás;l;kopasz;5000;német;0;4,17;2;Zalaegerszeg;2006.04.16;16:16:16;8360 Keszthely, Bercsényi Miklós utca 54.;1972.10.14;1987.07.28;kutya;
+Nyakas Ádám;11.C;számvitel-gazdálkodás;f;kopasz;5500;biológia;0;2,56;2;Zalaegerszeg;2005.03.10;16:18:32;8932 Pókaszepetk, Kossuth u. 13.;1974.01.01;1954.11.25;tyúk;vadászgörény
+Olasz Bence Dominik;11.C;rendszergazda;f;fekete;3500;történelem;2;1;1;Zalaegerszeg;2006.01.19;20:09:32;8981 Gellénháza, Olajmunkás u. 18.;1985.05.27;1953.10.08;ló;kacsa
+Salamon Fruzsina;11.C;számvitel-gazdálkodás;l;vörös;7000;történelem;0;4,57;1;Zalaegerszeg;2005.05.10;16:50:57;8771 Hahót, Fakospuszta 57.;1965.12.23;1971.10.28;macska;hal
+Somogyi Alexandra;11.C;pénzügy;l;barna;7500;német;0;2,61;0;Zalaegerszeg;2006.07.26;18:47:24;8942 Csatár, Rákóczi F.u. 9.;1989.09.06;1978.02.08;;
+Szabó Henrietta;11.C;rendszergazda;l;vörös;6500;rajz;0;2,88;0;Zalaegerszeg;2005.05.09;1:06:25;8991 Böde, Petőfi S. út 12.;1967.03.04;1960.08.31;kacsa;
+Szalai Bence;11.C;pénzügy;f;fekete;9500;földrajz;0;4,35;1;Zalaegerszeg;2006.04.25;20:34:56;8900 Zalaegerszeg, Landorhegyi út 30.;1975.12.17;1986.02.08;vadászgörény;teknős
+Szegleti Barnabás;11.C;szoftverfejlesztő;f;barna;9500;angol;0;3,66;1;Keszthely;2005.03.09;1:51:45;8992 Boncodfölde, Dózsa Gy.u.9.;1960.08.15;1962.01.28;macska;macska
+Székely Krisztián;11.C;számvitel-gazdálkodás;f;barna;9500;rajz;1;1;0;Zalaegerszeg;2005.07.10;16:47:55;8900 Zalaegerszeg, Hegyi u. 7/A.;1977.02.22;1965.12.30;teknős;
+Tóth Eszter;11.C;szoftverfejlesztő;l;barna;3500;magyar;2;1;3;Zalaegerszeg;2004.09.12;4:50:11;8897 Söjtör, Deák F.u. 4/A. ;1967.09.22;1979.12.22;kacsa;kígyó
+Tóth Joakim;11.C;pénzügy;f;vörös;5500;biológia;0;3,73;1;Zalaegerszeg;2004.09.21;20:03:33;8761 Pacsa, Szent István tér 24/B.;1976.09.22;1968.10.08;teknős;
+Tóth Máté;11.C;számvitel-gazdálkodás;f;szőke;9500;német;1;1;1;Zalaegerszeg;2005.10.06;8:58:36;8900 Zalaegerszeg, Berzsenyi u. 26.;1975.07.01;1965.03.20;kígyó;teknős
+Zobb Eszter;11.C;szoftverfejlesztő;l;szőke;3000;angol;2;1;0;Zalaegerszeg;2005.05.05;22:29:20;8900 Zalaegerszeg, Göcseji Pataki F.u. 22.;1965.03.17;1967.04.01;tyúk;vadászgörény
+Bácsi Barnabás;11.D;pénzügy;f;fekete;3500;matematika;0;3,47;0;Zalaegerszeg;2005.01.29;19:03:25;9934 Felsőjánosfa, Petőfi u.9.;1966.10.30;1959.05.02;;
+Bankó Zsófia;11.D;számvitel-gazdálkodás;l;vörös;3500;történelem;2;1;0;Zalaegerszeg;2005.06.02;10:21:14;8868 Letenye, Szív utca 26/A.;1972.03.30;1962.05.11;macska;ló
+Boa Diána;11.D;rendszergazda;l;barna;7000;angol;0;3,68;1;Zalaegerszeg;2006.04.04;12:16:41;8394 Alsópáhok, Kossuth L. utca 25.;1989.06.09;1981.07.22;;
+Borbély Márk Barnabás;11.D;szoftverfejlesztő;f;kopasz;10000;matematika;1;1;3;Zalaegerszeg;2005.12.14;8:30:19;8943 Bocfölde,  Kiskuti u. 12.;1965.03.24;1956.04.17;macska;vadászgörény
+Bozzai Viktória;11.D;pénzügy;l;barna;8000;magyar;1;1;2;Zalaegerszeg;2005.03.06;18:19:08;8925 Bucsuszentlászló, Petőfi S. utca 23.;1969.10.20;1959.09.03;kacsa;
+Büki Nikoletta;11.D;szoftverfejlesztő;l;kék;4500;fizika;0;4,13;1;Zalaegerszeg;2005.01.27;21:00:02;8921 Zalaszentiván, Petőfi S.u. 2/A. ;1962.01.09;1956.07.09;hal;kutya
+Fóris Brigitta;11.D;pénzügy;l;vörös;3000;történelem;0;2,95;0;Keszthely;2005.02.11;8:01:48;8900 Zalaegerszeg, Batthyány utca 10. ;1987.09.02;1983.07.05;tyúk;ló
+Fülöp Rita Tímea;11.D;szoftverfejlesztő;l;barna;5500;ének;0;3,08;0;Zalaegerszeg;2005.04.30;18:31:32;8913 Lakhegy, Petőfi S. utca 124.;1966.07.16;1968.08.01;macska;vadászgörény
+Gergye András Márton;11.D;számvitel-gazdálkodás;f;vörös;6500;biológia;3;1;0;Zalaegerszeg;2006.03.26;22:14:29;8900 Zalaegerszeg, Olajmunkás u. 4;1976.12.21;1958.11.27;;
+Hajba Zsófia Blanka;11.D;pénzügy;l;szőke;10000;informatika;0;4,93;1;Szombathely;2005.12.31;0:51:29;8900 Zalaegerszeg, Cserfa u. 20.;1984.07.27;1959.08.09;tyúk;kutya
+Hordós Gergő;11.D;rendszergazda;f;szőke;8500;földrajz;0;4,46;2;Zalaegerszeg;2005.08.08;4:58:56;8900 Zalaegerszeg, Dózsa Gy.u. 22.;1978.03.21;1975.08.28;patkány;
+Horváth Gabriella;11.D;pénzügy;l;szőke;9500;történelem;2;1;1;Zalaegerszeg;2006.02.17;18:52:33;8918 Csonkahegyhát, Kossuth L. u. 55.;1985.07.27;1968.02.23;teknős;
+Horváth Petra;11.D;szoftverfejlesztő;l;barna;10000;matematika;0;2,64;2;Zalaegerszeg;2006.08.30;13:05:26;8921 Zalaszentiván, Margaréta u. 14.;1975.07.04;1977.03.15;macska;tyúk
+Kanti Dávid;11.D;rendszergazda;f;vörös;4500;fizika;0;4,12;3;Zalaegerszeg;2005.03.12;17:56:25;8900 Zalaegerszeg, Mező u. 46.;1972.10.13;1970.08.13;tyúk;macska
+Kemes Laura;11.D;számvitel-gazdálkodás;l;vörös;7000;biológia;0;2,02;1;Zalaegerszeg;2005.04.30;6:02:28;8900 Zalaegerszeg,-Ságod, Paperdő út 2/A.;1963.11.20;1956.01.03;macska;kígyó
+Kovács Kristóf;11.D;pénzügy;f;szőke;4000;angol;3;1;3;Zalaegerszeg;2004.12.12;21:03:45;8900 Zalaegerszeg, Honvéd u. 19.;1986.03.09;1979.02.15;patkány;hörcsög
+Kulman Dorottya;11.D;rendszergazda;l;fekete;3500;angol;1;1;4;Zalaegerszeg;2005.08.16;7:09:24;8900 Zalaegerszeg, Kispest u. 5. 3/11.;1989.04.09;1956.03.06;patkány;kutya
+Mészáros Martina;11.D;számvitel-gazdálkodás;l;szőke;7500;rajz;0;2,62;1;Zalaegerszeg;2006.01.04;4:11:40;8900 Zalaegerszeg, Vasút u. 47.;1985.12.25;1987.03.15;hal;
+Molnár Daniella;11.D;pénzügy;l;vörös;6000;biológia;0;2,3;1;Zalaegerszeg;2006.06.22;5:47:18;8911 Nagykutas, Fő u. 63.;1967.12.21;1955.07.17;;
+Molnár Tamás;11.D;rendszergazda;f;fekete;7000;fizika;0;3,62;2;Keszthely;2005.08.24;8:06:38;8900 Zalaegerszeg, Alsóerdei út 2/B;1977.01.28;1974.03.25;macska;macska
+Németh Noémi;11.D;számvitel-gazdálkodás;l;vörös;6000;angol;0;3,28;2;Zalaegerszeg;2004.11.30;7:43:53;8900 Zalaegerszeg, Telekalja útja 28.;1983.03.11;1985.08.05;vadászgörény;
+Paucsa Milán Tamás;11.D;pénzügy;f;lila;5000;földrajz;0;3,24;3;Zalaegerszeg;2005.05.01;23:41:06;8900 Zalaegerszeg, Bethlen G. u. 5.;1978.10.29;1974.04.09;hörcsög;vadászgörény
+Ruis Dóra;11.D;számvitel-gazdálkodás;l;kék;3000;rajz;0;3,29;1;Zalaegerszeg;2006.05.25;20:09:18;8761 Pacsa, Csány L. u. 44.;1989.12.04;1973.04.08;kacsa;hörcsög
+Seress Róbert;11.D;rendszergazda;f;kék;8500;fizika;0;4,36;2;Zalaegerszeg;2004.11.24;19:00:16;8943 Bocfölde, Radnóti u. 2.;1967.02.24;1971.03.18;ló;macska
+Soós Gábor;11.D;rendszergazda;f;kopasz;6000;magyar;0;4,69;3;Keszthely;2005.07.13;3:37:22;8935 Misefa, Ady E. u. 1;1967.08.16;1979.06.04;kutya;hal
+Stankovics Renáta;11.D;számvitel-gazdálkodás;l;fekete;8000;földrajz;2;1;0;Zalaegerszeg;2005.12.26;23:30:42;8783 Tilaj, Petőfi S. u. 24.;1969.10.13;1985.05.07;tyúk;
+Takács Alexandra;11.D;rendszergazda;l;lila;6500;biológia;0;2,2;0;Zalaegerszeg;2006.03.04;5:21:35;9900 Körmend, Dózsa György 11/III/14.;1979.08.26;1973.03.12;ló;kígyó
+Tóth Alexandra;11.D;pénzügy;l;szőke;9500;ének;0;4,73;2;Zalaegerszeg;2006.05.21;18:38:08;8960 Lenti, Rákóczi utca 7.;1979.06.12;1981.12.27;hal;
+Tóth Márk;11.D;pénzügy;f;fekete;5000;német;0;4,23;0;Zalaegerszeg;2006.03.07;14:08:32;8991 Teskánd, Rózsa u. 10.;1977.05.23;1953.07.18;teknős;teknős
+Tóth Xénia Orsolya;11.D;rendszergazda;l;kopasz;4000;ének;2;1;1;Zalaegerszeg;2006.07.01;21:02:23;8921 Zalaszentlőrinc, Ady E. u. 2.;1966.08.20;1967.12.22;teknős;ló
+Varga János;11.D;pénzügy;f;fekete;6500;ének;2;1;0;Zalaegerszeg;2006.01.17;8:31:37;8983 Ormándlak, Temető utca 11.;1966.07.06;1952.01.17;kacsa;kacsa
+Zsuppán Krisztián;11.D;szoftverfejlesztő;f;fekete;6500;fizika;0;3,3;0;Zalaegerszeg;2006.05.28;21:38:03;9831 Bérbaltavár, Rákóczi u. 6.;1980.10.12;1965.07.22;ló;teknős
+Barabás Barbara Martina;12.A;számvitel-gazdálkodás;l;szőke;3000;német;0;3,36;1;Zalaegerszeg;2004.02.12;8:40:15;8900 Zalaegerszeg, Nemzetőr u. 22.  3/8.;1974.10.16;1961.04.21;teknős;
+Budai Mihály;12.A;számvitel-gazdálkodás;f;fekete;5000;biológia;0;2,89;1;Zalaegerszeg;2003.11.27;9:14:01;8992 Boncodfölde, Dózsa u. 27.;1982.10.26;1983.10.11;macska;
+Czeili Bence;12.A;rendszergazda;f;vörös;4500;angol;3;1;0;Zalaegerszeg;2004.12.08;8:02:02;8900 Zalaegerszeg, Vizslaparki út 8. 2/1;1965.07.27;1965.11.30;kutya;teknős
+Cséve Vanessza;12.A;szoftverfejlesztő;l;fekete;10000;rajz;0;3,08;0;Zalaegerszeg;2005.07.24;8:47:09;8933 Zalaistvánd, Petőfi S. u. 51.;1989.02.20;1984.07.21;vadászgörény;kígyó
+Csontos Péter;12.A;számvitel-gazdálkodás;f;fekete;3500;rajz;0;2,28;2;Keszthely;2003.09.22;21:10:51;8991 Hottó, Kossuth L.utca 5. ;1971.08.18;1975.08.30;ló;kígyó
+Dabronaki Milán Gábor ;12.A;pénzügy;f;kopasz;5000;német;1;1;3;Zalaegerszeg;2004.07.05;2:25:33;8900 Zalaegerszeg, Pázmány P. utca 15. ;1967.05.09;1956.01.02;patkány;hal
+Domján Eszter;12.A;szoftverfejlesztő;l;szőke;3000;magyar;3;1;4;Zalaegerszeg;2005.04.08;17:12:29;8900 Zalaegerszeg, Stadion u. 8. 4/39.;1982.08.15;1956.10.02;macska;vadászgörény
+Dömők Rebeka;12.A;számvitel-gazdálkodás;l;szőke;10000;informatika;2;1;0;Zalaegerszeg;2004.05.06;9:56:57;8781 Bókaháza, Kossuth L. utca 44.;1974.10.09;1967.01.23;patkány;patkány
+Geiger Boldizsár Sándor;12.A;pénzügy;f;fekete;7500;rajz;0;4,09;0;Zalaegerszeg;2004.02.29;13:29:06;8998 Ozmánbük, Teréz utca 12.;1986.10.31;1952.08.27;teknős;patkány
+Himpelmann Péter;12.A;pénzügy;f;fekete;6000;rajz;0;2,52;3;Zalaegerszeg;2005.03.20;16:14:08;8900 Zalaegerszeg, Platán sor 22.;1985.03.26;1977.10.14;teknős;
+Horváth Máté;12.A;pénzügy;f;szőke;8500;angol;2;1;0;Zalaegerszeg;2004.11.19;19:40:45;8771 Hahót, Arany J. u. 7.;1977.12.23;1952.01.02;tyúk;kacsa
+Kanozsai Bence;12.A;pénzügy;f;barna;5000;ének;1;1;3;Zalaegerszeg;2004.03.02;3:21:14;8900 Zalaegerszeg, Ságodi u. 98.;1963.06.16;1981.09.05;ló;macska
+Kapus Lilla Ilona;12.A;számvitel-gazdálkodás;l;szőke;5500;fizika;0;2,35;1;Zalaegerszeg;2004.12.02;20:07:06;8981 Gellénháza, Kossuth Lajos utca 3.;1981.10.03;1960.12.12;kutya;
+Kardos Péter;12.A;szoftverfejlesztő;f;vörös;8500;magyar;0;3,47;1;Zalaegerszeg;2003.11.25;4:19:07;8895 Pusztamagyaród, Kossuth L u. 24;1967.12.21;1976.09.14;teknős;
+Keszei Ábel;12.A;rendszergazda;f;fekete;7000;német;0;2,67;1;Zalaegerszeg;2004.06.23;5:13:42;8900 Zalaegerszeg, Szent István u. 2/A..;1965.09.18;1961.07.17;hal;tyúk
+Kintli György;12.A;rendszergazda;f;vörös;4000;rajz;0;2,2;0;Zalaegerszeg;2005.07.08;23:06:23;8900 Zalaegerszeg, Landorhegyi utca 26.;1988.12.27;1959.09.29;teknős;hal
+Kiss Péter;12.A;rendszergazda;f;fekete;3000;földrajz;4;1;1;Tapolca;2004.11.12;11:24:01;8994 Kávás, Petőfi Sándor utca 3.;1964.06.30;1975.05.11;teknős;hörcsög
+Kocsis Barbara;12.A;szoftverfejlesztő;l;kopasz;7500;földrajz;0;4,91;1;Szombathely;2003.12.10;7:05:55;8900 Zalaegerszeg, Széchenyi tér 7/A.;1963.08.05;1979.05.15;hal;kutya
+Lakner Eszter Laura;12.A;rendszergazda;l;kopasz;4000;német;0;4,55;0;Zalaegerszeg;2003.10.19;8:40:02;8900 Zalaegerszeg, Bartók B.u. 84.;1962.03.27;1956.06.01;vadászgörény;vadászgörény
+Mojzer Martin;12.A;rendszergazda;f;lila;3000;földrajz;0;3,01;1;Zalaegerszeg;2004.04.11;10:13:12;8946 Tófej, Petőfi u. 21.;1971.01.05;1967.12.12;tyúk;teknős
+Molnár Ádám;12.A;számvitel-gazdálkodás;f;fekete;5500;informatika;0;4,09;2;Zalaegerszeg;2005.08.25;15:32:43;8900 Zalaegerszeg, Balassi b. út 28.;1963.03.02;1952.07.18;teknős;macska
+Nemes Bendegúz;12.A;rendszergazda;f;szőke;9000;fizika;0;3,36;2;Zalaegerszeg;2003.11.09;8:23:43;8960 Lenti, Kinizsi út 34. ;1972.07.08;1977.08.01;;
+Németh Kitti;12.A;pénzügy;l;fekete;7500;informatika;2;1;1;Zalaegerszeg;2003.09.12;16:48:39;8900 Zalaegerszeg, Csáfordi forduló 24742/4 hrsz.;1970.08.09;1954.06.09;hal;tyúk
+Pálfi Armand;12.A;rendszergazda;f;barna;6000;informatika;0;2,81;2;Szombathely;2004.10.14;17:36:27;8995 Salomvár, Rózsa utca 3.;1960.02.03;1978.01.01;ló;tyúk
+Patai Bence;12.A;szoftverfejlesztő;f;vörös;8500;informatika;3;1;1;Zalaegerszeg;2005.07.09;6:03:51;8995 Salomvár, Dózsa György utca 22.;1980.10.11;1956.12.12;teknős;kutya
+Rácz Vivien;12.A;rendszergazda;l;szőke;7500;fizika;0;3,01;0;Zalaegerszeg;2003.09.10;20:52:54;8900 Zalaegerszeg, Landorhegyi u. 24/A.2/6.;1982.06.15;1954.06.16;;
+Simon Petra Dorina;12.A;rendszergazda;l;kopasz;9500;angol;0;2,46;3;Zalaegerszeg;2005.03.13;6:23:36;8981 Gellénháza, Kossuth u. 53.;1980.10.25;1986.03.05;;
+Simon Regina;12.A;szoftverfejlesztő;l;barna;6000;történelem;0;2,43;0;Zalaegerszeg;2004.10.31;9:26:03;9812 Telekes, Kossuth l. u. 27 ;1981.02.11;1977.11.14;kacsa;
+Számadó Zsófia;12.A;számvitel-gazdálkodás;l;barna;8000;magyar;3;1;4;Zalaegerszeg;2004.04.29;0:18:19;8395 Felsőpáhok, Vadrózsa utca 10.;1976.05.20;1979.05.26;patkány;macska
+Szücs Ádám;12.A;pénzügy;f;vörös;3000;fizika;0;3,04;2;Zalaegerszeg;2005.02.20;9:58:40;8900 Zalaegerszeg, Berzsenyi u. 11. 2/17.;1989.01.06;1963.10.27;kígyó;kígyó
+Tauker Dóra;12.A;számvitel-gazdálkodás;l;kék;6500;rajz;0;4,67;1;Zalaegerszeg;2004.07.29;3:28:51;8900 Zalaegerszeg, Egry József utca 2/B;1975.09.18;1968.12.02;hal;teknős
+Ujj Kristóf;12.A;számvitel-gazdálkodás;f;fekete;6000;földrajz;0;4,58;3;Zalaegerszeg;2003.09.24;7:19:19;8992 Bagod, József Attila út 17.;1966.10.23;1973.04.22;macska;
+Zsoldos Réka;12.A;pénzügy;l;lila;7500;földrajz;0;4,31;1;Zalaegerszeg;2004.06.05;14:58:24;8900 Zalaegerszeg, Olajmunkás u. 20.;1969.04.30;1969.05.31;patkány;
+Andrics Kinga Mária;12.B;rendszergazda;l;szőke;7000;matematika;1;1;1;Zalaegerszeg;2005.03.16;6:24:00;8790 Zalaszentgrót, Szabadság u. 48. ;1966.05.19;1969.09.23;hal;kutya
+Báhr András;12.B;rendszergazda;f;barna;8500;történelem;0;3,67;3;Zalaegerszeg;2005.07.28;2:52:11;8897 Söjtör, Szabadság u. 39.;1964.07.30;1983.07.22;kutya;kígyó
+Bajnok Bianka;12.B;rendszergazda;l;vörös;9000;rajz;0;3,32;0;Zalaegerszeg;2003.12.05;13:49:50;8925 Búcsúszentlászló, Dózsa Gy.u. 22.;1976.12.01;1983.08.16;kacsa;patkány
+Balázs Klaudia;12.B;pénzügy;l;szőke;4500;rajz;0;4,58;1;Zalaegerszeg;2003.11.17;13:16:54;8932 Pókaszepetk, Petőfi Sándor utca 4.;1977.02.08;1959.02.10;ló;teknős
+Bali Viktória;12.B;rendszergazda;l;szőke;5000;rajz;0;4,18;1;Zalaegerszeg;2004.08.08;14:28:55;8900 Zalaegerszeg, Fejér Gy.utca 2/B. I.5. ;1968.02.26;1986.07.28;kutya;
+Boronyák Ádám;12.B;szoftverfejlesztő;f;barna;3500;angol;0;4,08;1;Zalaegerszeg;2004.09.25;15:08:07;8799 Pakod, Fő u. 29.;1974.07.29;1976.05.27;ló;kutya
+Both Nikolett;12.B;rendszergazda;l;barna;3500;fizika;0;2,42;1;Zalaegerszeg;2004.02.28;0:35:20;8912 Kispáli, Kossuth u. 17.;1964.03.01;1965.10.17;kutya;ló
+Fekete Ágoston;12.B;számvitel-gazdálkodás;f;szőke;4000;informatika;2;1;2;Zalaegerszeg;2004.08.16;17:31:01;8900 Zalaegerszeg, Erkel u. 20/B.;1975.05.07;1956.08.16;ló;patkány
+Györe Zsanett;12.B;szoftverfejlesztő;l;szőke;3500;informatika;0;4,32;3;Zalaegerszeg;2005.08.01;1:34:34;8900 Zalaegerszeg, Apáczai Csere János tér 9.;1963.02.18;1964.07.02;;
+Holes Alexandra;12.B;számvitel-gazdálkodás;l;kopasz;10000;matematika;2;1;0;Nagykanizsa;2005.04.20;11:26:09;8900 Zalaegerszeg, Kispest u. 1.;1967.11.09;1970.01.16;teknős;hal
+Horváth Róbert;12.B;rendszergazda;f;szőke;5000;rajz;0;2,43;1;Keszthely;2005.02.22;10:04:52;8900 Zalaegerszeg, Kinizsi u. 84.  3/12.;1968.05.29;1973.06.23;;
+Kálmán Attila;12.B;rendszergazda;f;kopasz;10000;rajz;0;3,03;2;Zalaegerszeg;2004.10.11;14:56:52;8900 Zalaegerszeg, Farkas Dávid utca 2.;1985.12.03;1972.03.23;kacsa;hörcsög
+Kaszás Kinga;12.B;pénzügy;l;barna;8500;ének;0;2,67;2;Zalaegerszeg;2003.10.17;0:24:57;8960 Lenti, Sugár u. 12.;1984.03.29;1964.11.01;teknős;hörcsög
+Kenyeres Krisztián;12.B;rendszergazda;f;kopasz;6500;német;1;1;3;Zalaegerszeg;2004.08.18;15:31:36;8935 Nagykapornak, Ady u. 8.;1959.12.23;1986.08.07;vadászgörény;macska
+Kónya Benedek;12.B;szoftverfejlesztő;f;szőke;6500;informatika;0;3,44;2;Zalaegerszeg;2004.05.23;4:57:47;8897 Söjtör, Petőfi u. 27.;1972.08.16;1953.07.21;kutya;kacsa
+Körmendi Marcell;12.B;rendszergazda;f;fekete;9500;biológia;1;1;0;Zalaegerszeg;2003.09.18;9:53:41;8943 Bocfölde, Radnóti M. u. 6.;1980.10.15;1980.02.04;tyúk;kacsa
+Molnár Veronika;12.B;szoftverfejlesztő;l;barna;9500;fizika;0;3,3;1;Kecskemét;2005.01.05;19:40:33;8900 Zalaegerszeg, Egry J. u. 2/B;1982.04.09;1964.10.09;patkány;kutya
+Nagy Balázs;12.B;pénzügy;f;kopasz;9500;ének;0;2,91;2;Zalaegerszeg;2004.05.25;15:03:52;8981 Gellénháza, Kossuth Lajos utca 101.;1976.10.09;1950.07.05;kígyó;
+Németh Melitta;12.B;szoftverfejlesztő;l;barna;3500;rajz;3;1;0;Zalaegerszeg;2004.12.06;10:43:12;8900 Zalaegerszeg, Madách út 22. 10/61.;1983.05.21;1952.04.14;ló;teknős
+Németh Viktor;12.B;számvitel-gazdálkodás;f;barna;6500;történelem;0;3,53;1;Zalaegerszeg;2004.10.30;4:19:19;8960 Lenti, Jókai M. u. 21.;1971.11.11;1976.10.03;kígyó;ló
+Ragán Gyula Ádám;12.B;pénzügy;f;vörös;10000;matematika;0;4,36;0;Zalaegerszeg;2004.12.22;14:19:03;8900 Zalaegerszeg, Átalszegett utca 27 fsz. 1.A;1972.01.11;1961.11.26;kutya;
+Sabján Krisztián;12.B;szoftverfejlesztő;f;vörös;10000;angol;0;2,09;1;Nagykanizsa;2004.03.02;21:05:46;8900 Zalaegerszeg, Göcseji u. 5-7. fsz.2.;1972.06.16;1959.04.14;ló;kacsa
+Salamon Bettina;12.B;számvitel-gazdálkodás;l;vörös;10000;történelem;0;2,2;1;Zalaegerszeg;2005.02.26;3:48:37;8945 Bak, Ady E.u. 26.;1983.01.02;1952.05.09;hörcsög;teknős
+Skriba Liza;12.B;számvitel-gazdálkodás;l;lila;4000;biológia;1;1;1;Zalaegerszeg;2004.07.27;4:14:42;8900 Zalaegerszeg, Mosoly utca 6.;1968.03.11;1977.02.09;;
+Soós Zsófia;12.B;rendszergazda;l;szőke;9500;magyar;0;4,37;2;Zalaegerszeg;2005.02.11;20:58:08;8900 Zalaegerszeg, Ciklámen u. 4. ;1980.12.10;1966.11.13;hörcsög;ló
+Steinitz Martin;12.B;pénzügy;f;szőke;6500;földrajz;0;3,96;1;Zalaegerszeg;2004.03.29;13:06:27;9900 Körmend, Németh M.u. 2/A. I/6.;1971.01.13;1954.09.23;hal;
+Szekeres Balázs;12.B;szoftverfejlesztő;f;vörös;6000;fizika;0;2,92;1;Keszthely;2004.10.02;18:17:30;8985 Becsvölgye, Kopácsai u. 11.;1986.11.09;1968.01.17;kutya;
+Tompa Miklós;12.B;számvitel-gazdálkodás;f;barna;3000;történelem;0;4,17;2;Zalaegerszeg;2005.06.07;23:27:04;8900 Zalaegerszeg, Szendrei J.u. 9.;1982.04.03;1956.02.06;tyúk;
+Tóth Adrienn;12.B;rendszergazda;l;vörös;10000;földrajz;0;2,7;3;Zalaegerszeg;2005.03.06;10:58:01;8900 Zalaegerszeg, Bíró Márton utca 93.;1981.03.16;1950.06.25;patkány;kutya
+Vizi Kinga;12.B;rendszergazda;l;fekete;10000;földrajz;1;1;1;Tapolca;2005.06.27;19:10:36;8958 Iklódbördőce, Rózsa Ferenc út 31. ;1977.05.09;1981.07.20;kacsa;macska
+Zsoldos Ormos;12.B;rendszergazda;f;vörös;10000;matematika;0;2,2;0;Zalaegerszeg;2004.02.19;0:39:51;8900 Zalaegerszeg, Király u. 15.;1965.02.24;1971.03.22;hal;kígyó
+Biczó Zsolt;12.C;szoftverfejlesztő;f;fekete;3500;fizika;0;4,39;1;Zalaegerszeg;2005.06.26;0:33:19;8900 Zalaegerszeg, Ciklámen u. 12/A;1970.05.23;1957.04.04;tyúk;
+Bognár Zsófia;12.C;pénzügy;l;szőke;3500;biológia;0;4,55;2;Zalaegerszeg;2004.09.17;7:02:46;8900 Zalaegerszeg, Nemzetőr u. 32/C.  Fsz.;1962.09.23;1959.01.03;ló;tyúk
+Bonyhárd Áron;12.C;rendszergazda;f;szőke;10000;angol;3;1;0;Zalaegerszeg;2004.05.25;18:53:52;8997 Zalaháshágy, Petőfi Sándor utca 80.;1974.01.24;1971.04.22;patkány;
+Erdei Martina;12.C;rendszergazda;l;fekete;9000;informatika;0;4,81;3;Szombathely;2004.07.19;6:29:22;8992 Bagod, Széchenyi u. 2/A.;1967.04.08;1979.02.04;macska;hörcsög
+Forgács Brigitta;12.C;rendszergazda;l;vörös;4000;német;0;3,2;0;Zalaegerszeg;2005.06.09;20:39:21;8917 Milejszeg, Móricz Zs. u. 2.;1961.09.15;1979.05.14;hörcsög;hal
+György Ottó;12.C;számvitel-gazdálkodás;f;vörös;6500;ének;0;2,65;2;Zalaegerszeg;2005.04.22;22:14:17;8900 Zalaegerszeg, Gasparich utca 26.A /B lh. 2/9.;1973.09.17;1955.07.10;kígyó;hal
+Haluska Bálint;12.C;szoftverfejlesztő;f;barna;7500;történelem;0;3,97;3;Zalaegerszeg;2004.08.03;16:49:24;8912 Nagypáli, Petőfi S.u. 35.;1974.02.24;1956.11.22;patkány;hörcsög
+Hári Gergő;12.C;rendszergazda;f;barna;5000;biológia;0;3,41;2;Zalaegerszeg;2004.07.05;20:21:26;8900 Zalaegerszeg, Kutilapi u. 9.;1960.12.20;1975.12.11;hörcsög;kacsa
+Horváth Ádám;12.C;szoftverfejlesztő;f;vörös;9500;földrajz;0;3,9;1;Körmend;2004.04.24;10:56:03;8900 Zalaegerszeg, Stadion utca 2. ;1984.01.13;1965.07.26;;
+Horváth Bence;12.C;pénzügy;f;vörös;9000;informatika;0;4,1;3;Zalaegerszeg;2005.02.21;10:18:40;8762 Szentpéterúr, Petőfi u. 16.;1961.09.18;1956.01.31;vadászgörény;hörcsög
+Horváth Konrád;12.C;számvitel-gazdálkodás;f;kék;3500;történelem;0;2,63;2;Zalaegerszeg;2004.01.12;8:29:59;8999 Zalalövő, Petőfi u. 48.;1975.05.10;1952.11.27;kutya;vadászgörény
+Kapuszta Dóra;12.C;szoftverfejlesztő;l;vörös;5000;biológia;3;1;1;Zalaegerszeg;2005.07.16;21:47:14;8960 Lenti, Nefelejcs u. 12.;1974.12.01;1963.09.21;kacsa;kacsa
+Karsai Krisztina;12.C;pénzügy;l;vörös;3000;történelem;0;2,27;1;Zalaegerszeg;2005.08.05;11:14:38;8900 Zalaegerszeg, Madách utca 22.;1969.05.09;1968.11.01;tyúk;kígyó
+Kern Lajos Dávid;12.C;számvitel-gazdálkodás;f;fekete;7000;történelem;2;1;0;Zalaegerszeg;2004.04.01;10:36:30;8790 Zalaszentgrót, Gyár u. 6. ;1970.04.05;1978.11.07;;
+Kotfas Botond;12.C;pénzügy;f;barna;3500;német;1;1;2;Zalaegerszeg;2003.10.11;21:13:25;8900 Zalaegerszeg, Táncoslapi utca 1/a.;1980.01.11;1968.03.21;ló;macska
+Makk Zoltán Ferenc;12.C;számvitel-gazdálkodás;f;kopasz;6000;ének;0;2,99;1;Pécs;2005.04.10;18:23:10;8888 Maróc, Petőfi Sándor utca 22.;1989.03.17;1951.02.24;kutya;kígyó
+Miszori Dóra;12.C;pénzügy;l;fekete;5500;informatika;0;4,27;3;Zalaegerszeg;2004.10.28;15:49:27;8946 Tófej, Ifjúság u. 7.;1964.11.27;1981.10.31;kígyó;hörcsög
+Molnár Marcell;12.C;szoftverfejlesztő;f;lila;8000;történelem;0;2,55;1;Zalaegerszeg;2005.04.17;14:07:17;8916 Babosdöbréte, Sénig F. u. 8.;1963.07.16;1956.09.15;vadászgörény;kígyó
+Mónok Péter Bence;12.C;pénzügy;f;vörös;6000;ének;0;4,63;2;Szombathely;2004.05.24;7:14:17;8900 Zalaegerszeg, Nemzetőr u. 4.;1963.05.29;1970.09.05;kígyó;
+Móró Anita;12.C;rendszergazda;l;fekete;7500;fizika;0;4,02;2;Zalaegerszeg;2003.12.16;23:53:25;8900 Zalaegerszeg, Berzsenyi út 26. 5/64;1987.08.31;1977.07.11;;
+Németh Gábor;12.C;számvitel-gazdálkodás;f;barna;5500;informatika;0;3,93;0;Zalaegerszeg;2004.05.20;20:26:56;8900 Zalaegerszeg, Ciklámen u. 4. fsz. 1.;1963.09.01;1968.05.22;hörcsög;ló
+Németh Martina;12.C;pénzügy;l;barna;3000;német;1;1;1;Körmend;2005.03.27;11:33:28;8943 Bocfölde, Berek u. 22.;1973.03.29;1953.04.20;kígyó;hal
+Németh Zsófia;12.C;számvitel-gazdálkodás;l;fekete;8500;matematika;0;2,75;0;Zalaegerszeg;2004.02.20;20:31:42;8900 Zalaegerszeg, Erkel F.u. 18/A.2/8.;1971.04.03;1957.05.03;;
+Némethy Máté János;12.C;számvitel-gazdálkodás;f;barna;6000;földrajz;0;4,56;2;Zalaegerszeg;2005.03.14;16:32:41;8914 Vasboldogasszony, Petőfi S. utca 83.;1984.11.06;1950.12.28;kacsa;macska
+Paál Kristóf;12.C;pénzügy;f;kopasz;8500;angol;0;3,48;0;Zalaegerszeg;2005.06.28;17:57:31;8790 Zalaszentgrót, Eötvös Károly u. 8/b;1980.10.14;1986.08.31;kígyó;kutya
+Rózsa Rebeka;12.C;pénzügy;l;vörös;7500;fizika;0;2,36;0;Zalaegerszeg;2004.08.19;5:06:01;8900 Zalaegerszeg, Szabadság utca 2/D.;1978.11.03;1960.03.31;;
+Söller Klaudia;12.C;pénzügy;l;szőke;8000;magyar;2;1;1;Zalaegerszeg;2004.11.06;11:27:12;8932 Pókaszepetk, Petőfi u. 138.;1963.10.19;1960.07.27;ló;hörcsög
+Szekér Barbara;12.C;rendszergazda;l;vörös;7500;magyar;2;1;2;Zalaegerszeg;2003.10.11;15:21:55;8900 Zalaegerszeg, Csilla utca 23.;1984.08.28;1961.01.22;hal;kacsa
+Szommer Patrik Gergő;12.C;számvitel-gazdálkodás;f;vörös;7000;biológia;0;2,45;0;Zalaegerszeg;2003.12.15;14:03:06;8893 Bucsuta, Ady E. u. 20.;1965.03.11;1949.04.30;patkány;hörcsög
+Takács Blanka;12.C;szoftverfejlesztő;l;barna;5500;földrajz;0;4,07;0;Zalaegerszeg;2004.06.09;2:39:53;8996 Zalacséb, Rákóczi F. u. 51;1980.08.22;1972.07.19;tyúk;
+Vadas Dániel;12.C;rendszergazda;f;fekete;10000;ének;0;2,62;1;Zalaegerszeg;2004.07.26;8:15:09;8900 Zalaegerszeg, Gébárti u. 54.;1985.02.28;1978.03.19;macska;patkány
+Valkóczi Gergő;12.C;pénzügy;f;kopasz;6000;magyar;0;3,1;0;Zalaegerszeg;2004.10.29;8:46:12;8900 Zalaegerszeg, Hegyalja u. 24.  1.3.;1962.10.15;1977.06.03;tyúk;ló
+Vecsei Daniella;12.C;számvitel-gazdálkodás;l;fekete;8500;angol;0;3,44;0;Zalaegerszeg;2004.06.04;13:50:19;8900 Zalaegerszeg, Ola utca 18/B;1965.05.10;1981.04.26;;
+Verhás Tamás;12.C;szoftverfejlesztő;f;fekete;9500;matematika;0;3,82;1;Zalaegerszeg;2003.12.24;7:48:42;8900 Zalaegerszeg, Szövetkezet u. 3/A.;1983.07.12;1967.02.06;ló;macska
+Zuggó Zoltán;12.C;szoftverfejlesztő;f;szőke;4500;német;3;1;1;Zalaegerszeg;2005.02.26;19:48:55;8991 Hottó, Szabadság tér 7.;1977.08.16;1952.01.22;;
+Agg András;12.D;pénzügy;f;barna;9500;fizika;2;1;3;Zalaegerszeg;2004.03.06;20:44:35;8913 Egervár, Ady E. utca 2.;1986.12.13;1982.03.06;teknős;
+Bruszik Péter;12.D;szoftverfejlesztő;f;vörös;4000;fizika;1;1;1;Zalaegerszeg;2004.01.06;0:44:50;8925 Kisbucsa, Kossuth L. utca 40. ;1972.12.31;1969.08.15;;
+Bukta Alex;12.D;szoftverfejlesztő;f;vörös;6500;földrajz;2;1;1;Keszthely;2005.04.21;20:48:57;8900 Zalaegerszeg, Felsőerdő út 32.;1983.03.27;1970.01.27;kacsa;kutya
+Frühwirth Kristóf;12.D;számvitel-gazdálkodás;f;barna;4500;rajz;1;1;1;Zalaegerszeg;2004.01.15;8:45:55;8946 Baktüttős, Rákóczi u. 118.;1982.05.04;1962.04.24;;
+Gerencsér Zsolt;12.D;rendszergazda;f;vörös;5000;ének;0;2,53;3;Zalaegerszeg;2003.12.17;18:14:04;8981 Gellénháza, Táncsics u. 12/A;1962.05.20;1967.03.14;hal;hörcsög
+Gergye László Ádám;12.D;szoftverfejlesztő;f;szőke;9500;fizika;3;1;1;Miskolc;2005.04.22;4:27:07;8790 Zalaszentgrót-Tekenye, Köztársaság utca 9. ;1975.09.23;1971.06.01;teknős;teknős
+Hertelendi Bernadett;12.D;szoftverfejlesztő;l;barna;7000;biológia;0;2,57;2;Zalaegerszeg;2004.11.03;18:38:31;8912 Kispáli, József A.u. 28/A.;1967.11.11;1954.05.16;kígyó;kacsa
+Hizsnyai Gábor;12.D;számvitel-gazdálkodás;f;barna;10000;ének;0;2,24;0;Tapolca;2003.10.11;22:28:59;8914 Nagypáli, Honfoglalás út 15.;1975.09.14;1967.06.04;kacsa;teknős
+Horváth Péter;12.D;számvitel-gazdálkodás;f;kopasz;6000;biológia;0;4,87;0;Zalaegerszeg;2003.09.30;5:21:41;8900 Zalaegerszeg, Berzsenyi D. u. 26. ;1959.03.19;1960.06.05;;
+Iván Ágota;12.D;szoftverfejlesztő;l;szőke;6500;történelem;2;1;0;Keszthely;2005.02.09;9:17:31;8900 Zalaegerszeg, Felsőerdő u. 32.;1987.11.27;1967.12.29;ló;hal
+Kámán Norman;12.D;pénzügy;f;kék;3000;angol;0;4,59;3;Zalaegerszeg;2004.05.08;5:56:35;9915 Hegyhátsál, Temető u. 28.;1961.12.11;1954.10.02;patkány;kutya
+Kerkai Vanessa;12.D;pénzügy;l;kopasz;8000;informatika;1;1;1;Zalaegerszeg;2004.03.23;20:54:23;8992 Boncodfölde, Dózsa Gy.u. 16.;1983.06.27;1983.07.28;vadászgörény;
+Király Benita Roberta;12.D;szoftverfejlesztő;l;fekete;4000;történelem;0;3,67;2;Zalaegerszeg;2004.07.11;5:59:05;8957 Zebecke, Petőfi út 17.;1984.06.11;1968.03.07;;
+Király Vivien;12.D;pénzügy;l;fekete;6500;történelem;0;2,49;1;Zalaegerszeg;2005.08.15;23:42:39;8900 Zalaegerszeg, Balatoni út 23.;1983.04.03;1957.11.17;tyúk;macska
+Lambert Anna;12.D;számvitel-gazdálkodás;l;fekete;9500;fizika;0;2,13;3;Zalaegerszeg;2005.05.31;2:32:43;8900 Zalaegerszeg, Göcsej P. F. u. 31;1974.04.23;1958.01.23;kutya;hal
+Laposa Laura;12.D;számvitel-gazdálkodás;l;barna;3500;matematika;0;3,81;1;Zalaegerszeg;2004.11.16;23:28:41;8900 Zalaegerszeg, Göcseji út 51. 10/82;1983.08.17;1963.01.23;macska;tyúk
+Lengyeltóti Szilvia;12.D;szoftverfejlesztő;l;fekete;4500;földrajz;0;3,52;1;Zalaegerszeg;2005.06.26;18:52:34;8900 Zalaegerszeg, Ciklámen u. 2.;1966.01.17;1985.02.17;;
+Major Jenő;12.D;rendszergazda;f;kopasz;3000;biológia;2;1;2;Zalaegerszeg;2005.03.09;15:21:11;8762 Szentpéterúr, Petőfi u. 27.;1970.06.13;1959.04.14;tyúk;kacsa
+Márfi Balázs;12.D;pénzügy;f;barna;3500;ének;0;2,34;1;Zalaegerszeg;2003.12.31;1:51:55;8900 Zalaegerszeg, Erzsébethegyi út 5/C;1970.07.07;1969.08.13;vadászgörény;kígyó
+Molnár Richárd;12.D;pénzügy;f;barna;7000;történelem;1;1;0;Zalaegerszeg;2004.01.23;5:17:55;8900 Zalaegerszeg, Dózsa György út 29.;1980.11.08;1976.07.02;kacsa;patkány
+Nagy Ákos;12.D;számvitel-gazdálkodás;f;vörös;9000;matematika;0;3,94;0;Zalaegerszeg;2003.11.03;14:00:07;8900 Zalaegerszeg, Batthyány L. u. 10/B  ;1963.12.15;1966.10.16;ló;ló
+Papp Viviána;12.D;rendszergazda;l;szőke;8500;történelem;3;1;1;Zalaegerszeg;2005.05.06;11:36:20;8900 Zalaegerszeg, Kinizsi u. 78/C;1962.07.30;1956.02.04;hörcsög;
+Rózsa Bernadett;12.D;számvitel-gazdálkodás;l;barna;5500;földrajz;1;1;2;Nagykanizsa;2004.01.27;15:34:49;8900 Zalaegerszeg, Széchenyi tér 7/A.;1979.01.18;1953.02.12;patkány;hal
+Sifter Dániel;12.D;számvitel-gazdálkodás;f;kopasz;4500;informatika;0;4,62;0;Keszthely;2004.03.20;11:28:01;8900 Zalaegerszeg, Hegyi út 9/a;1974.06.29;1982.08.07;vadászgörény;
+Sipos Dániel;12.D;pénzügy;f;szőke;7000;rajz;0;2,08;1;Zalaegerszeg;2005.01.06;0:45:04;8962 Szentpéterúr, Kossuth u. 80.;1965.09.25;1961.01.07;hal;patkány
+Sipos Szintia;12.D;pénzügy;l;barna;9000;magyar;0;2,81;0;Zalaegerszeg;2004.12.02;14:06:45;8992 Bagod, Szent Erzsébet utca 21.;1965.11.09;1958.10.05;tyúk;macska
+Szabó Bence Bendegúz ;12.D;rendszergazda;f;barna;8000;magyar;0;2,28;1;Zalaegerszeg;2004.12.31;13:36:11;8900 Zalaegerszeg, Válicka u. 25.;1966.01.01;1984.11.04;kacsa;ló
+Szabó Olivér;12.D;szoftverfejlesztő;f;kopasz;7000;angol;3;1;3;Zalaegerszeg;2004.04.19;9:17:59;8900 Zalaegerszeg, Madách u. 20.;1982.05.11;1959.08.06;vadászgörény;
+Szalai Eszter;12.D;rendszergazda;l;szőke;5000;fizika;0;4,8;2;Zalaegerszeg;2003.12.02;16:08:57;8900 Zalaegerszeg, Gábor Áron út 21.;1984.05.09;1962.11.08;kutya;kutya
+Széll Panna;12.D;pénzügy;l;fekete;10000;földrajz;0;4,29;1;Zalaegerszeg;2003.12.19;20:49:25;8790 Zalaszentgrót, Nefelejcs út 5.;1962.06.19;1979.08.24;vadászgörény;kígyó
+Tóth Papp Adrienn;12.D;rendszergazda;l;vörös;7000;német;0;3,1;3;Szombathely;2003.12.16;17:47:23;8991 Teskánd, Május 1 út 1. ;1964.09.03;1966.11.02;patkány;kígyó
+Varga Dóra;12.D;pénzügy;l;vörös;6500;ének;3;1;1;Zalaegerszeg;2005.04.05;14:35:26;8946 Tófej, Ifjúság u. 16.;1966.08.06;1951.12.12;teknős;macska
+Vugrinecz Viola;12.D;pénzügy;l;kopasz;7500;angol;0;4,16;1;Zalaegerszeg;2004.03.30;15:45:32;8931 Kemendollár, Ady u. 11.;1976.04.17;1953.05.20;macska;
+Zsoldos Kitti Anita;12.D;szoftverfejlesztő;l;kopasz;6000;történelem;0;3,08;1;Zalaegerszeg;2004.06.29;12:29:14;8925 Búcsúszentlászló, József A.u. 13.;1974.10.25;1982.03.26;vadászgörény;
+Balogh Fruzsina;13.A;pénzügy;l;szőke;7500;rajz;1;1;1;Zalaegerszeg;2003.08.09;1:33:25;8985 Becsvölgye, Rózsa u. 1/A;1985.12.15;1948.08.30;ló;teknős
+Borbély Dorothy;13.A;számvitel-gazdálkodás;l;lila;4000;német;0;2,68;2;Zalaegerszeg;2002.09.28;12:07:39;8900 Zalaegerszeg, Zala út 2/A 2/2.;1964.07.05;1966.02.05;;
+Cziráki Dorina Júlia ;13.A;pénzügy;l;kopasz;4000;rajz;0;2,02;2;Zalaegerszeg;2003.02.18;22:41:46;8932 Pókaszepetk, Nyírfa utca 1. ;1970.11.17;1949.11.02;ló;kutya
+Cseh Vivien;13.A;számvitel-gazdálkodás;l;kopasz;7000;angol;0;3,64;1;Zalaegerszeg;2003.01.22;17:21:17;8944 Sárhida, Pacsirta út 1.;1972.07.20;1961.04.07;kutya;kígyó
+Farkas Hajnalka;13.A;számvitel-gazdálkodás;l;fekete;5500;német;3;1;1;Körmend;2004.01.29;19:43:37;8796 Türje, Cseresznyeszer utca 11;1961.09.18;1960.08.05;;
+Farkas Szilveszter;13.A;számvitel-gazdálkodás;l;kék;3000;földrajz;0;3;2;Zalaegerszeg;2003.01.23;6:05:59;8912 Kispáli, Kossuth u. 50.;1967.08.06;1958.01.17;kígyó;macska
+Gerencsér Zsófia;13.A;pénzügy;l;kopasz;6000;történelem;0;2,43;1;Zalaegerszeg;2002.11.13;6:52:05;8925 Búcsúszentlászló, Petőfi utca 13.;1964.02.29;1978.02.23;hörcsög;macska
+György Viktória Alexandra ;13.A;számvitel-gazdálkodás;l;barna;9500;földrajz;2;1;2;Zalaegerszeg;2003.05.08;20:43:13;8900 Zalaegerszeg, Olajmunkás u. 37.;1962.01.30;1976.09.02;kígyó;kutya
+Hábencius Dóra;13.A;pénzügy;l;szőke;4000;magyar;0;3,9;2;Kecskemét;2004.06.18;4:13:36;8900 Zalaegerszeg, Ola u. 18/C. 4/7.;1987.07.11;1960.02.24;macska;hal
+Hegyi Milán;13.A;pénzügy;f;kék;4500;német;0;5;1;Zalaegerszeg;2004.04.16;12:22:55;8943 Bocfölde, Kosztolányi u. 4.;1975.02.20;1949.10.13;hörcsög;hörcsög
+Horváth Szelina Aletta;13.A;pénzügy;l;fekete;9500;történelem;2;1;0;Veszprém;2003.04.27;18:22:27;8900 Zalaegerszeg, Kossuth u. 52/B.;1968.12.31;1950.09.27;kutya;
+Kalamár Ramóna;13.A;számvitel-gazdálkodás;f;kék;4000;magyar;0;2,05;1;Zalaegerszeg;2003.03.28;7:38:50;8797 Batyk, Kossuth u. 1.;1973.09.04;1969.05.09;vadászgörény;tyúk
+Kóbor Tamás;13.A;pénzügy;f;fekete;8500;informatika;0;3,15;1;Zalaegerszeg;2003.11.29;16:00:16;8947 Zalatárnok, Ady u. 1.;1975.02.21;1951.08.12;macska;kutya
+Komáromy Márk;13.A;számvitel-gazdálkodás;f;fekete;3000;magyar;0;3,75;3;Zalaegerszeg;2003.07.02;20:49:06;8981 Lickóvadomos, Fő utca 2/a;1977.10.29;1976.08.04;patkány;hal
+Kovács Barnabás;13.A;számvitel-gazdálkodás;f;vörös;6500;történelem;0;2,27;0;Zalaegerszeg;2004.06.20;21:01:26;8981 Gellénháza, Kossuth L. u. 38.;1982.10.03;1955.07.20;patkány;
+Kumin Bence;13.A;számvitel-gazdálkodás;f;vörös;4000;ének;4;1;1;Zalaegerszeg;2003.11.17;9:48:53;8900 Zalaegerszeg, Pázmány P. u. 8.;1978.10.27;1959.04.27;hal;
+Major Klaudia;13.A;pénzügy;l;kék;9500;matematika;0;3,38;1;Zalaegerszeg;2002.12.07;8:04:27;8762 Szentpéterúr, Kossuth Lajos utca 90.;1978.10.02;1960.05.25;kígyó;tyúk
+Mazzag Orsolya;13.A;számvitel-gazdálkodás;l;fekete;10000;angol;0;3,45;1;Zalaegerszeg;2003.02.19;0:06:10;8960 Lenti, Petőfi utca 22.;1967.10.09;1973.12.12;ló;macska
+Mészáros Péter;13.A;számvitel-gazdálkodás;f;fekete;7500;német;2;1;2;Zalaegerszeg;2003.12.07;13:10:19;8932 Pókaszepetk, Petőfi S. u. 26.;1984.08.12;1951.04.16;macska;kígyó
+Molnár Renáta;13.A;pénzügy;l;vörös;4500;ének;0;2,05;2;Nagykanizsa;2002.10.22;3:25:11;8900 Zalaegerszeg, Pózva u. 108;1976.06.07;1962.06.18;kutya;macska
+Nagy Enikő Judit;13.A;számvitel-gazdálkodás;l;fekete;3000;matematika;0;3,62;3;Zalaegerszeg;2003.07.25;9:40:14;8373 Rezi, Hársfa sor 9. ;1985.07.10;1983.03.15;hal;ló
+Novák Bence;13.A;számvitel-gazdálkodás;f;szőke;9500;matematika;0;4,06;1;Zalaegerszeg;2002.11.24;10:34:10;8900 Zalaegerszeg, Irinyi J. u. 13.;1979.05.31;1972.04.30;patkány;teknős
+Rozs Viktória;13.A;számvitel-gazdálkodás;l;barna;8000;történelem;0;2,44;0;Zalaegerszeg;2004.08.09;1:26:37;8900 Zalaegerszeg, Kinizsi P. u. 78/G/ 3/8;1976.04.13;1965.09.18;;
+Simon Bettina Ágnes;13.A;számvitel-gazdálkodás;l;kopasz;6500;német;0;2,72;1;Zalaegerszeg;2003.04.25;13:19:21;8900 Zalaegerszeg, Vasút út 34/A. ;1982.01.13;1982.08.14;hal;patkány
+Szalai Barbara;13.A;számvitel-gazdálkodás;l;barna;4000;angol;0;4,66;1;Zalaegerszeg;2004.03.15;7:13:07;8900 Zalaegerszeg, Platán sor 25. ;1986.03.06;1976.03.23;patkány;
+Szenyita Diána;13.A;számvitel-gazdálkodás;l;szőke;9500;angol;0;4,48;0;Zalaegerszeg;2003.03.19;14:17:57;8900 Zalaegerszeg, Holub út 12. fsz. 3.;1958.04.01;1961.03.21;hal;kacsa
+Szujker Viktória;13.A;számvitel-gazdálkodás;l;vörös;7500;történelem;0;4,83;1;Zalaegerszeg;2003.06.06;22:34:43;8936 Zalaszentmihály, Kossuth Lajos utca 35.;1965.06.25;1950.02.09;teknős;kutya
+Takács Kristóf;13.A;számvitel-gazdálkodás;f;barna;5000;rajz;0;4,28;3;Zalaegerszeg;2003.04.25;2:28:52;8900 Zalaegerszeg, Köztársaság út 9. ;1978.04.22;1978.12.22;tyúk;vadászgörény
+Tar Cintia;13.A;pénzügy;l;kopasz;3500;ének;0;2,06;1;Zalaegerszeg;2003.12.07;14:27:27;8923 Nemesapáti, Árpád út 9.;1985.07.14;1959.05.09;tyúk;macska
+Balázs Barbara;13.C;szoftverfejlesztő;l;kék;9000;magyar;0;3,64;0;Zalaegerszeg;2003.02.13;3:29:29;8782 Zalacsány, Vasút u. 36/D.;1963.08.23;1963.01.29;teknős;
+Balogh Bálint;13.C;szoftverfejlesztő;f;lila;4000;fizika;0;3,35;2;Nagykanizsa;2003.04.25;7:07:26;8900 Zalaegerszeg, Nyári-hegyi u. hrsz:20773;1972.07.29;1966.12.24;kígyó;macska
+Bedő Nikolett;13.C;szoftverfejlesztő;l;barna;8000;történelem;3;1;0;Zalaegerszeg;2002.10.08;12:46:12;8900 Zalaegerszeg, Baross Gábor utca 30.;1978.12.25;1979.01.22;kutya;kígyó
+Császár Brigitta;13.C;rendszergazda;l;kopasz;8000;német;0;2,11;1;Zalaegerszeg;2003.05.29;21:56:06;8999 Zalalövő, Széchenyi út 72. ;1983.08.25;1971.02.27;kígyó;ló
+Császár Kinga;13.C;szoftverfejlesztő;l;fekete;5000;fizika;0;3,9;1;Zalaegerszeg;2003.03.14;23:55:23;8900 Zalaegerszeg, Szövetkezet utca 5/A.;1969.07.30;1969.10.11;teknős;
+Csernovicz Zsófia;13.C;szoftverfejlesztő;l;szőke;9500;fizika;2;1;1;Zalaegerszeg;2004.08.17;16:12:37;8900 Zalaegerszeg, Göcsej P.F. u. 27.;1987.12.31;1958.03.13;patkány;kutya
+Dömötör Tamás;13.C;rendszergazda;f;vörös;8500;ének;0;4,04;3;Zalaegerszeg;2004.05.10;23:51:22;8900 Zalaegerszeg, Hegyi u. 10/C.;1976.08.05;1976.09.18;;
+Fábián Florentina;13.C;szoftverfejlesztő;l;fekete;5500;földrajz;0;3,82;3;Zalaegerszeg;2004.02.29;16:13:36;9915 Katafa, Ifjúság u. 33.;1966.10.20;1967.10.25;;
+Farkas Benjamin (2);13.C;szoftverfejlesztő;f;fekete;9500;ének;1;1;0;Zalaegerszeg;2002.12.25;22:54:44;8900 Zalaegerszeg, Hét vezér út 17.;1986.07.10;1971.12.11;kutya;patkány
+Fischer Bence;13.C;szoftverfejlesztő;f;kopasz;9500;biológia;0;2,88;1;Zalaegerszeg;2003.06.27;10:29:28;8900 Zalaegerszeg, Biró M.u. 28. 3/7.;1974.05.15;1980.06.10;hörcsög;macska
+Gecseg Zoltán;13.C;rendszergazda;f;barna;3000;matematika;0;3,56;0;Zalaegerszeg;2003.03.13;14:19:21;8900 Zalaegerszeg, Andráshida u. 51/A.;1980.05.25;1956.01.24;kígyó;kutya
+Góczi Bendegúz;13.C;rendszergazda;f;barna;8500;ének;0;4,23;1;Zalaegerszeg;2004.03.05;10:05:40;8900 Zalaegerszeg, Pálóczi H.Á. u. 15.;1963.03.08;1977.12.07;teknős;ló
+Gosztolai Petra;13.C;szoftverfejlesztő;l;fekete;3000;informatika;0;3,97;1;Zalaegerszeg;2003.12.30;16:58:15;8900 Zalaegerszeg, Kossuth u. 64/C. 1/1.;1984.02.27;1975.08.24;macska;kígyó
+Györe Benita;13.C;szoftverfejlesztő;l;vörös;4000;magyar;0;2,58;1;Zalaegerszeg;2004.03.24;14:34:46;8900 Zalaegerszeg, Petőfi u. 22.  2/4;1985.09.21;1983.12.09;macska;kacsa
+Hajdú Richárd;13.C;szoftverfejlesztő;f;barna;8500;rajz;1;1;2;Zalaegerszeg;2004.01.21;20:41:43;8984 Petrikeresztúr, Ady E. utca 6./b.;1963.09.01;1976.07.19;hal;hörcsög
+Heé Áron Máté;13.C;szoftverfejlesztő;f;fekete;10000;történelem;0;4,23;3;Zalaegerszeg;2002.10.29;1:59:21;8782 Zalacsány, Deák körút 32.;1974.03.14;1957.12.08;macska;kígyó
+Herold Barnabás József;13.C;rendszergazda;f;szőke;5000;biológia;1;1;3;Zalaegerszeg;2004.01.28;10:55:56;8900 Zalaegerszeg, Kelemen I. u. 14.;1977.08.01;1971.06.02;tyúk;hörcsög
+Imre Ildikó Jennifer;13.C;rendszergazda;l;fekete;8000;fizika;0;2,8;0;Zalaegerszeg;2004.05.08;1:28:06;8900 Zalaegerszeg, Holub u. 12  1/4.;1965.09.06;1950.10.02;teknős;
+Jóna Vivien;13.C;szoftverfejlesztő;l;szőke;3500;ének;0;2,62;1;Szombathely;2002.12.06;6:25:28;8992 Bagod, Vitenyédi u. 64.;1982.07.22;1951.07.15;;
+Kaj Zsolt;13.C;szoftverfejlesztő;f;barna;4000;ének;0;4,81;0;Zalaegerszeg;2004.05.19;23:47:28;8900 Zalaegerszeg, Szentmártoni u. 6/A;1985.06.18;1979.06.24;kígyó;hörcsög
+Kalcher Fanni;13.C;rendszergazda;l;vörös;10000;rajz;0;2,2;1;Zalaegerszeg;2004.07.18;3:12:13;8900 Zalaegerszeg, Platán sor 23/A.;1972.04.20;1982.08.02;;
+Kerkai Szilárd;13.C;rendszergazda;f;szőke;7500;rajz;1;1;2;Szombathely;2003.08.25;13:42:46;8792 Zalavég, Béke út 72.;1971.10.05;1956.01.23;teknős;patkány
+Kovács Alexandra;13.C;szoftverfejlesztő;l;vörös;3500;német;3;1;1;Zalaegerszeg;2003.01.27;6:27:39;8900 Zalaegerszeg, Bodza u. 17.;1969.04.09;1963.12.07;macska;kutya
+Kulcsár Olívia;13.C;rendszergazda;f;kék;5000;biológia;0;3,54;1;Zalaegerszeg;2003.02.28;10:08:28;8900 Zalaegerszeg, Rózsás utca 50.;1969.11.27;1982.04.02;kacsa;
+Lehotai Miksa;13.C;rendszergazda;f;szőke;7500;matematika;0;2,5;2;Zalaegerszeg;2004.06.25;12:47:29;8925 Búcsúszentlászló, Jókai u. 6.;1974.11.26;1957.08.22;teknős;teknős
+Molnár Anna;13.C;szoftverfejlesztő;l;szőke;9000;történelem;3;1;2;Nagykanizsa;2003.06.16;22:29:27;8900 Zalaegerszeg, Hajnal utca 3. 3. a. ;1962.08.28;1984.03.06;vadászgörény;patkány
+Molnár Bálint;13.C;rendszergazda;f;szőke;5500;rajz;0;3,72;1;Zalaegerszeg;2004.03.16;11:27:55;8900 Zalaegerszeg, Stadion u. 4. 3/18.;1981.04.08;1969.09.11;kutya;
+Németh Dóra;13.C;szoftverfejlesztő;l;lila;3000;biológia;0;2,68;2;Zalaegerszeg;2003.03.31;5:52:38;8900 Zalaegerszeg, Építők útja 7.  3/12;1968.03.16;1976.06.01;teknős;kutya
+Németh Laura;13.C;rendszergazda;l;vörös;7500;földrajz;0;3,3;1;Zalaegerszeg;2003.10.12;12:50:32;8790 Zalaszentgrót, Mikszáth Kálmán utca 3.;1980.01.12;1960.06.12;kutya;kacsa
+Németh Péter;13.C;rendszergazda;f;vörös;8000;fizika;0;2,23;3;Zalaegerszeg;2004.01.06;21:36:25;8943 Bocfölde, Rákóczi Ferenc u. 32.;1975.02.23;1973.01.19;kutya;
+Orbán Gyula;13.C;rendszergazda;f;fekete;5500;angol;2;1;0;Keszthely;2003.08.24;0:41:16;8900 Zalaegerszeg, Petőfi köz 3/b.;1978.08.20;1974.07.02;;
+Rákosa Bálint;13.C;rendszergazda;f;kopasz;10000;magyar;0;2,97;4;Zalaegerszeg;2002.12.09;21:04:20;8978 Rédics, Sugár utca 3.;1975.02.11;1951.03.15;vadászgörény;
+Sámson Lilla Márta;13.C;szoftverfejlesztő;l;fekete;3500;német;0;4,05;1;Zalaegerszeg;2003.08.30;17:33:23;8900 Zalaegerszeg, Landorhegyi u. 26.;1969.06.13;1953.07.07;macska;patkány
+Simon Dóra;13.C;szoftverfejlesztő;l;fekete;7000;angol;0;3,07;2;Zalaegerszeg;2003.03.03;18:50:54;8912 Nagypáli, Arany J.u. 15.;1966.02.14;1958.09.25;macska;
+Simon Noémi;13.C;szoftverfejlesztő;l;vörös;5500;rajz;0;3,14;2;Zalaegerszeg;2004.01.13;12:26:47;8790 Zalaszentgrót, Bethlen G. utca 14.;1967.10.27;1949.03.18;kutya;kacsa
+Szakály Adrienn;13.C;rendszergazda;l;barna;10000;ének;0;4,87;2;Zalaegerszeg;2003.01.26;13:41:06;8799 Pakod, Rákóczi Ferenc út 57.;1981.01.29;1970.05.17;kutya;patkány
+Szép Eszter;13.C;rendszergazda;l;kopasz;9500;német;0;2,79;2;Körmend;2002.10.05;23:08:46;8999 Zalalövő, Margaréta u. 33.;1983.04.09;1978.12.28;;
+Temlén Péter;13.C;rendszergazda;f;vörös;6000;történelem;0;2,5;0;Zalaegerszeg;2004.03.18;20:36:52;8913 Lakhegy, Petőfi S. utca 113.;1986.10.01;1955.08.19;vadászgörény;tyúk
+Vaspöri Viktor;13.C;szoftverfejlesztő;f;vörös;8000;ének;0;4,78;1;Zalaegerszeg;2004.03.15;6:20:07;8900 Zalaegerszeg, Kosztolányi u. 9/D.;1967.10.11;1979.04.27;hörcsög;ló
+Albert Annamária;9.A;számvitel-gazdálkodás;l;barna;8500;biológia;0;4,84;2;Zalaegerszeg;2007.06.26;21:28:17;8900 Zalaegerszeg, Besenyő út 49.;1981.04.30;1970.12.09;teknős;kutya
+Benkő Kitti;9.A;pénzügy;l;barna;6000;biológia;0;4,97;1;Zalaegerszeg;2007.07.27;6:37:26;8900 Zalaegerszeg, Kinizsi u. 76/D. II/5.;1962.09.17;1979.12.05;vadászgörény;
+Boa Veronika;9.A;rendszergazda;l;barna;7500;ének;0;2,23;1;Zalaegerszeg;2007.12.21;19:42:54;8992 Zalaboldogfa, Ady u.6.;1979.06.10;1970.04.13;ló;ló
+Csalló Mercédesz;9.A;számvitel-gazdálkodás;l;barna;6500;földrajz;2;1;2;Győr;2008.07.26;16:29:50;8944 Sárhida, Béke U. 60.;1990.08.10;1980.06.13;patkány;hal
+Cseresnyés Judit Zsófia;9.A;pénzügy;l;kopasz;6500;biológia;3;1;3;Zalaegerszeg;2007.06.03;16:57:26;8900 Zalaegerszeg, Köztársaság út 83 IV/19.;1988.11.14;1977.08.10;kígyó;hal
+Csiszár Benjámin;9.A;szoftverfejlesztő;f;barna;7500;ének;0;3,51;2;Zalaegerszeg;2008.08.27;1:41:18;8900 Zalaegerszeg, Gorkij u. 23.;1964.01.11;1974.06.07;teknős;hal
+Csóka Kitty;9.A;rendszergazda;l;kopasz;3500;biológia;0;3,21;1;Zalaegerszeg;2006.11.01;22:27:57;8900 Zalaegerszeg, Bíró Márton utca 93.;1980.03.14;1973.09.22;vadászgörény;kacsa
+Csonka Leila Éva;9.A;pénzügy;l;vörös;9500;informatika;0;3,05;1;Zalaegerszeg;2007.08.28;18:00:18;8900 Zalaegerszeg, Hegyalja utca 11/B 3. em./12;1975.08.24;1964.04.25;ló;patkány
+Dávid Veronika;9.A;számvitel-gazdálkodás;l;vörös;5500;ének;0;3,31;2;Zalaegerszeg;2006.11.15;14:45:36;8782 Zalacsány, Hegy utca 11.;1970.09.17;1965.02.27;tyúk;kígyó
+Dukai László;9.A;rendszergazda;f;szőke;5000;fizika;0;3,53;1;Zalaegerszeg;2006.12.13;15:27:46;8900 Zalaegerszeg, Szabadság u. 51.;1987.01.23;1964.10.28;;
+Ferencz Márk;9.A;pénzügy;f;kopasz;5500;informatika;0;4,72;0;Zalaegerszeg;2007.03.29;21:47:49;8900 Zalaegerszeg, Egry József utca 4. C lph. 1. em. 6. ;1977.11.28;1985.08.13;vadászgörény;hörcsög
+Foki Dániel;9.A;rendszergazda;f;fekete;8500;ének;0;2,32;1;Zalaegerszeg;2008.03.18;0:23:44;8900 Zalaegerszeg, Ola u. 4-10 3/1;1971.06.11;1961.09.19;teknős;kutya
+Horváth Attila;9.A;pénzügy;f;szőke;5000;földrajz;0;2,68;1;Zalaegerszeg;2007.03.01;6:20:41;8913 Egervár, Nádasdy utca 14.;1983.10.20;1977.05.09;kutya;teknős
+Horváth Krisztián János;9.A;pénzügy;f;fekete;6500;matematika;0;2,53;2;Szombathely;2007.08.25;19:16:14;8790 Zalaszentgrót, Katalin ltp. 4/B. 4/13.;1990.10.05;1966.02.08;teknős;kígyó
+Horváth Krisztina;9.A;rendszergazda;l;fekete;4000;német;0;3,71;0;Pécs;2006.12.08;9:35:28;8395 Felsőpáhok, Szent I. u. 49.;1982.07.20;1971.01.05;hal;
+Imre Diána;9.A;szoftverfejlesztő;l;szőke;8000;informatika;3;1;3;Zalaegerszeg;2008.05.12;14:53:53;8900 Zalaegerszeg, Vorhota út 2.;1983.05.30;1990.01.01;teknős;tyúk
+Jáger Barbara;9.A;számvitel-gazdálkodás;l;barna;3500;történelem;3;1;1;Zalaegerszeg;2007.02.23;22:45:46;8932 Pókaszepetk, Arany J. u. 14. ;1972.11.29;1980.10.22;;
+Kocsi Bence;9.A;pénzügy;f;fekete;5500;angol;1;1;0;Keszthely;2007.07.23;1:48:24;8900 Zalaegerszeg, Göcseji út 23-25;1975.08.13;1973.05.25;tyúk;hörcsög
+Koller Róbert;9.A;rendszergazda;f;fekete;4500;magyar;3;1;4;Nagykanizsa;2007.07.30;19:42:46;9812 Telekes, Fő u. 57.;1984.11.29;1980.07.28;macska;patkány
+Kovács Dávid;9.A;szoftverfejlesztő;f;vörös;5000;angol;0;4,43;2;Zalaegerszeg;2007.10.25;13:20:30;8900 Zalaegerszeg, Kossuth u. 62/D. ;1967.11.07;1965.06.13;vadászgörény;ló
+Ladányi Anna Éva;9.A;pénzügy;l;barna;8000;matematika;0;3,31;0;Zalaegerszeg;2007.07.03;18:45:34;8900 Zalaegerszeg, Öveges József u. 40/1;1963.10.11;1970.06.28;kacsa;vadászgörény
+Lukács Máté;9.A;rendszergazda;f;fekete;5000;rajz;0;2,62;0;Nagykanizsa;2008.05.03;16:57:10;8911 Kiskutas, Fő u. 1/F.;1969.09.20;1974.01.02;macska;tyúk
+Nyiri Nikolett;9.A;rendszergazda;l;barna;8000;rajz;0;3,76;2;Zalaegerszeg;2007.05.13;19:47:42;8994 Zalaszentgyörgy, Kossuth Lajos út 19.;1964.04.08;1975.04.26;vadászgörény;hal
+Preininger Júlia;9.A;rendszergazda;l;barna;10000;informatika;0;3,18;2;Nagykanizsa;2008.07.11;17:49:21;8900 Zalaegerszeg, Göcseji Pataki F. u. 1 3/15.;1983.12.22;1974.12.11;patkány;teknős
+Püsök Péter Dórián;9.A;szoftverfejlesztő;f;szőke;4000;magyar;0;2,91;1;Zalaegerszeg;2007.07.07;12:19:06;8992 Bagod, Zala út 3.;1976.10.30;1966.03.15;;
+Soós Lilla;9.A;rendszergazda;l;szőke;9000;matematika;0;2,46;0;Zalaegerszeg;2006.09.27;4:55:55;8893 Szentliszló, Béke u. 7.;1979.08.22;1967.05.10;kacsa;kígyó
+Süle Péter;9.A;rendszergazda;f;kék;4500;fizika;3;1;4;Zalaegerszeg;2007.08.27;9:24:32;8900 Zalaegerszeg, Teskándi út 28.;1991.01.22;1967.09.07;patkány;macska
+Szimeiszter Dániel;9.A;szoftverfejlesztő;f;barna;8000;történelem;0;3,51;1;Zalaegerszeg;2008.06.03;14:45:28;8900 Zalaegerszeg, Mártírok útja 17. III.;1991.02.02;1979.03.29;ló;hörcsög
+Tonka Ákos;9.A;szoftverfejlesztő;f;fekete;3500;matematika;1;1;1;Marosvásárhely;2008.02.17;16:08:36;8900 Zalaegerszeg, Göcseji Pataki Ferenc u. 27.;1970.06.24;1959.01.04;patkány;
+Zsigmond Lolita;9.A;szoftverfejlesztő;l;barna;5000;informatika;0;4,09;3;Zalaegerszeg;2007.08.03;9:34:41;8900 Zalaegerszeg, Alsóerdei u. 5/B.;1980.01.29;1965.08.13;patkány;kutya
+Andor Kinga;9.B;számvitel-gazdálkodás;l;barna;9000;rajz;0;4,2;0;Zalaegerszeg;2006.11.01;11:02:08;8999 Zalalövő, Irsapuszta út 10.;1974.11.18;1967.09.29;vadászgörény;vadászgörény
+Benkő Anita Katalin;9.B;pénzügy;l;vörös;7500;rajz;0;2,57;1;Zalaegerszeg;2006.09.07;16:43:09;8981 Gellénháza, Varga G.utca 10.;1977.07.06;1986.10.27;;
+Béres Márton;9.B;pénzügy;f;kopasz;3000;német;1;1;2;Zalaegerszeg;2006.12.22;17:16:56;8741 Zalaapáti, Jókai M. u. 119/E;1985.10.21;1985.04.13;kacsa;hal
+Bertalan Vanessa;9.B;rendszergazda;l;fekete;3000;rajz;0;3,13;1;Zalaegerszeg;2007.04.11;15:34:46;8900 Zalaegerszeg, Rét u. 1/A.;1984.03.01;1973.08.09;vadászgörény;teknős
+Bita Mátyás;9.B;számvitel-gazdálkodás;f;szőke;3500;magyar;0;4,05;0;Zalaegerszeg;2007.04.24;11:04:32;8900 Zalaegerszeg, Erdész utca 74. I/5.;1972.08.26;1988.04.17;kígyó;teknős
+Bujtor Benő Zénó;9.B;számvitel-gazdálkodás;f;szőke;10000;biológia;4;1;2;Zalaegerszeg;2008.07.11;9:26:40;8935 Misefa, Fő u. 41. ;1980.06.26;1983.11.29;hörcsög;macska
+Büki Bertalan;9.B;számvitel-gazdálkodás;f;kopasz;4000;informatika;0;2,33;1;Zalaegerszeg;2007.05.08;21:12:56;8992 Hagyárosbörönd, Kossuth u.2.;1990.05.20;1975.12.04;hal;kígyó
+Czeili Bálint;9.B;szoftverfejlesztő;f;kopasz;3000;fizika;2;1;1;Zalaegerszeg;2007.07.19;17:38:10;8931 Kemendollár, Dózsa Gy.utca 33.;1967.03.23;1956.09.27;;
+Dobos Vanessza Renáta;9.B;számvitel-gazdálkodás;l;szőke;10000;biológia;0;4,84;4;Zalaegerszeg;2008.07.13;19:48:04;8994 Kávás, Kossuth L. utca 14.;1966.01.07;1954.05.26;;
+Domján Bianka;9.B;számvitel-gazdálkodás;l;fekete;4000;biológia;0;2,24;1;Zalaegerszeg;2007.10.04;16:55:11;8900 Zalaegerszeg, Batthyány u. 10/B.;1965.03.26;1960.01.19;kutya;ló
+Farkas Benjamin;9.B;rendszergazda;f;vörös;8000;rajz;0;2,49;1;Zalaegerszeg;2007.03.31;14:57:45;8900 Zalaegerszeg, Budai völgy 36;1990.08.29;1973.12.10;tyúk;
+Farkas Dorina;9.B;pénzügy;l;kopasz;4000;informatika;1;1;1;Zalaegerszeg;2007.05.26;12:34:35;8996 Zalacséb, Fenyő u. 19.;1979.04.02;1956.10.06;kacsa;vadászgörény
+Fombhor Vivien;9.B;szoftverfejlesztő;l;kék;9500;földrajz;0;3,64;1;Zalaegerszeg;2008.07.26;10:30:02;8319 Lesenceistvánd, Kossuth L. utca 84. ;1967.07.13;1983.04.04;ló;
+Fülöp Anikó;9.B;szoftverfejlesztő;l;szőke;7500;biológia;0;4,09;1;Zalaegerszeg;2006.12.19;0:20:19;8900 Zalaegerszeg, Madách u. 20.;1973.08.02;1974.12.04;kígyó;
+Gellén Dominik;9.B;pénzügy;f;kopasz;4000;biológia;3;1;1;Nagykanizsa;2007.01.21;16:14:46;8900 Zalaegerszeg, Batthyány L.u. 11. I/6.;1964.09.06;1986.02.15;ló;hörcsög
+Gyenese Márk;9.B;rendszergazda;f;kék;5500;fizika;0;3,35;4;Zalaegerszeg;2007.05.17;6:54:42;8900 Zalaegerszeg, Akácfa utca 12.;1987.07.30;1981.08.30;tyúk;macska
+Győrffy Gergely;9.B;rendszergazda;f;fekete;5000;magyar;3;1;0;Zalaegerszeg;2008.07.20;20:42:26;8900 Zalaegerszeg, Jegenyés út 29.;1969.05.12;1981.09.17;ló;
+Halász Réka;9.B;számvitel-gazdálkodás;l;barna;6500;matematika;0;2,19;0;Zalaegerszeg;2008.04.15;7:30:47;8900 Zalaegerszeg, Csácsi u. 66.;1977.09.02;1967.10.13;ló;vadászgörény
+Hegyi Barbara;9.B;számvitel-gazdálkodás;l;kopasz;3500;rajz;0;2,01;0;Körmend;2008.03.06;5:52:00;8900 Zalaegerszeg, Borostyán sor 22/B 4. ;1988.07.14;1978.10.27;tyúk;
+Horváth Adrienn;9.B;számvitel-gazdálkodás;l;kopasz;7000;biológia;0;2,51;0;Keszthely;2007.07.25;14:22:11;8900 Zalaegerszeg, Nyíres utca 8.;1970.08.20;1953.08.30;ló;hal
+Horváth Benita;9.B;számvitel-gazdálkodás;l;vörös;3000;fizika;0;2,74;0;Zalaegerszeg;2007.05.03;15:47:47;8991 Hottó, Fő út 40/a;1990.10.15;1962.02.27;macska;kutya
+Horváth Éva;9.B;pénzügy;l;szőke;10000;történelem;0;3,19;0;Zalaegerszeg;2007.12.09;18:26:49;8983 Babosdöbréte, Séning F. út 17.;1967.12.24;1980.01.25;ló;kacsa
+Horváth Fruzsina;9.B;pénzügy;l;kék;8000;német;2;1;2;Zalaegerszeg;2008.02.12;8:15:05;8799 Pakod, Fő utca 34/A.;1968.09.09;1988.07.06;ló;teknős
+Kása Bianka;9.B;pénzügy;l;fekete;9500;matematika;0;2,03;0;Keszthely;2007.12.02;15:45:54;8911 Nagykutas, Gyöp u. 44. ;1964.06.11;1983.12.27;patkány;kígyó
+Kereszturi Réka;9.B;pénzügy;l;fekete;7500;matematika;0;2,49;3;Szombathely;2007.02.16;7:20:42;8998 Ozmánbük, Deák u. 1.;1987.01.31;1962.06.10;patkány;patkány
+Kulcsár László;9.B;számvitel-gazdálkodás;f;kopasz;4500;rajz;2;1;4;Zalaegerszeg;2007.09.28;11:33:09;8921 Zalaszentiván, Deák u. 12.;1984.07.18;1968.05.01;tyúk;ló
+Lepsényi Tamás István;9.B;pénzügy;f;szőke;8000;magyar;1;1;1;Zalaegerszeg;2006.09.07;7:24:49;8999 Zalalövő, Csány L.u. 34. ;1990.08.01;1977.06.21;macska;tyúk
+Magyar Petra;9.B;szoftverfejlesztő;l;fekete;7500;angol;0;4,45;4;Zalaegerszeg;2008.02.10;23:12:00;8945 Bak, Ady Endre út 18.;1978.03.01;1955.02.13;hal;kutya
+Márton Alexandra Judit;9.B;számvitel-gazdálkodás;l;vörös;6000;német;0;2,15;1;Zalaegerszeg;2007.04.30;4:43:53;8900 Zalaegerszeg, Kikelet u. 6. B. 2.;1965.08.20;1983.06.02;hörcsög;patkány
+Mészáros Olivér;9.B;számvitel-gazdálkodás;f;fekete;7000;magyar;0;2,37;0;Zalaegerszeg;2008.06.17;9:51:56;8935 Nagykapornak, Táncsics M.u. 15.;1980.05.02;1971.08.15;patkány;tyúk
+Németh Ágnes;9.B;rendszergazda;l;barna;7000;magyar;0;3,37;1;Zalaegerszeg;2007.04.10;12:54:19;8900 Zalaegerszeg, Kabók Lajos utca 6.;1987.03.05;1962.08.21;hörcsög;kutya
+Németh Cintia;9.B;pénzügy;l;fekete;10000;német;0;4,45;2;Zalaegerszeg;2007.11.24;20:51:21;8900 Zalaegerszeg, Berzsenyi út 11. 5/35.;1976.05.24;1989.01.23;hörcsög;patkány
+Németh Enikő;9.B;rendszergazda;l;barna;9500;magyar;0;4,77;2;Zalaegerszeg;2007.06.14;21:45:44;8918 Csonkahegyhát, Kossuth u. 55.;1972.10.03;1953.02.21;vadászgörény;hal
+Pongrácz Márk;9.B;rendszergazda;f;vörös;8500;ének;0;4,06;1;Zalaegerszeg;2007.09.07;21:07:49;8900 Zalaegerszeg, Bíró M.u. 26. 2/10/A.;1977.07.18;1987.10.31;patkány;
+Székedi Gréta;9.B;szoftverfejlesztő;l;fekete;5000;ének;2;1;0;Zalaegerszeg;2008.03.24;19:59:43;8900 Zalaegerszeg, Munkácsy u. 8.  2/4.;1965.01.09;1989.01.28;kacsa;macska
+Takács Fanni;9.B;számvitel-gazdálkodás;l;kopasz;4000;földrajz;0;4,25;4;Zalaegerszeg;2007.09.20;3:40:55;8900 Zalaegerszeg, Holub J. utca 10.;1982.12.09;1972.05.26;tyúk;tyúk
+Tóth Alexandra;9.B;szoftverfejlesztő;l;fekete;9500;fizika;0;3,82;3;Zalaegerszeg;2007.02.14;14:17:10;8926 Kisbucsa, Béke u. 23.;1989.10.06;1957.12.26;vadászgörény;
+Varga Bianka Gvendolin;9.B;pénzügy;l;vörös;8000;német;0;4,01;1;Zalaegerszeg;2008.02.05;1:02:38;8900 Zalaegerszeg, Egry József utca 4/C;1980.07.12;1968.09.29;;
+Vörös Viktória;9.B;szoftverfejlesztő;l;szőke;9000;angol;0;3,05;2;Zalaegerszeg;2007.08.24;11:43:30;8900 Zalaegerszeg, József A.u. 1.;1969.09.30;1974.05.11;kacsa;
+Bakon Zsófia;9.C;pénzügy;l;kopasz;7000;ének;0;3,67;1;Zalaegerszeg;2007.10.09;4:03:45;8945 Bak, Kossuth L. u. 149;1991.01.25;1985.11.18;ló;macska
+Billege Bence;9.C;pénzügy;f;szőke;8500;rajz;0;3,35;4;Zalaegerszeg;2007.07.05;10:10:00;9812 Telekes, Rákóczi F. utca 9.;1971.08.14;1967.01.30;kutya;kutya
+Bognár Mirkó;9.C;pénzügy;f;vörös;5500;történelem;0;2,5;2;Zalaegerszeg;2007.06.20;11:45:29;8991 Hottó, Kossuth u. 5/A.;1970.01.09;1983.06.01;vadászgörény;teknős
+Bonnyai Tünde;9.C;pénzügy;l;szőke;8000;biológia;0;4,96;2;Zalaegerszeg;2007.02.04;20:30:01;8996 Zalacséb, Kossuth L.utca 68.;1976.06.26;1988.10.17;macska;vadászgörény
+Budai Gergő;9.C;rendszergazda;f;kopasz;10000;rajz;0;4,48;3;Keszthely;2007.01.24;4:19:20;8917  Milejszeg, Petőfi utca 58.;1976.04.24;1961.03.14;;
+Csécs Cintia;9.C;szoftverfejlesztő;l;vörös;6000;rajz;0;3,86;2;Zalaegerszeg;2006.12.12;9:27:30;8900 Zalaegerszeg, Várberki u. 23.;1985.06.16;1970.10.15;patkány;kacsa
+Dömők Máté;9.C;számvitel-gazdálkodás;f;vörös;9500;rajz;0;4,9;2;Zalaegerszeg;2008.07.05;22:29:15;8997 Zalaháshágy, Petőfi Sándor  utca 94.;1988.04.05;1955.03.13;kutya;teknős
+Erdei Júlia;9.C;pénzügy;l;szőke;4000;magyar;3;1;1;Zalaegerszeg;2007.02.06;19:46:31;8992 Zalaboldogfa, Petőfi S. u. 5. ;1963.05.20;1960.01.28;macska;teknős
+Ferencz Evelin;9.C;pénzügy;l;kopasz;8500;földrajz;1;1;2;Beregújfalu;2006.11.09;0:24:03;8960 Lenti, Gyöngyvirág utca 16. ;1967.12.15;1966.06.10;kígyó;
+Fojtek Szilvia;9.C;számvitel-gazdálkodás;l;vörös;5500;magyar;0;4,27;0;Zalaegerszeg;2006.10.03;17:02:00;8900 Zalaegerszeg, Bíró M. u. 24/A.;1986.01.26;1953.09.11;kígyó;
+Furján Márk;9.C;rendszergazda;f;barna;8000;német;0;4,54;2;Zalaegerszeg;2006.10.13;16:20:47;8790 Zalaszentgrót, Kisfaludy utca 39.;1965.04.01;1963.02.03;;
+Fülöp Alexandra;9.C;számvitel-gazdálkodás;l;fekete;9000;informatika;0;2,99;1;Zalaegerszeg;2008.02.26;4:46:37;8878 Lovászi, Kútfej út 113/2.;1980.12.22;1986.04.18;tyúk;
+Gerencsér Kristóf;9.C;pénzügy;f;szőke;3000;fizika;0;4,18;0;Zalaegerszeg;2006.09.18;6:17:29;8900 Zalaegerszeg, Telekalja u. 33.;1977.10.01;1985.01.20;kutya;kutya
+Gombos Petra;9.C;számvitel-gazdálkodás;l;kék;7000;magyar;0;3,93;4;Zalaegerszeg;2007.09.01;16:33:51;9824 Olaszfa, Széchenyi u. 1.;1973.04.23;1980.06.16;tyúk;
+Haszilló Gergely;9.C;rendszergazda;f;vörös;5000;biológia;4;1;2;Zalaegerszeg;2008.01.23;8:15:01;8900 Zalaegerszeg, Kinizsi u. 103./ I/4. ;1971.05.15;1971.08.30;kígyó;ló
+Hóbor Krisztián;9.C;rendszergazda;f;vörös;7500;ének;0;4,28;3;Zalaegerszeg;2008.06.26;12:16:08;8984 Petrikeresztúr, Kossuth L. u. 72;1975.05.24;1982.11.28;ló;kacsa
+Horváth Alíz;9.C;szoftverfejlesztő;l;fekete;4000;informatika;0;3,9;3;Szombathely;2006.11.13;13:56:46;8960 Lenti, Gyöngyvirág utca 16.;1968.10.23;1974.11.23;kígyó;vadászgörény
+Kámán Noémi;9.C;számvitel-gazdálkodás;l;vörös;7000;magyar;0;4,54;1;Zalaegerszeg;2007.04.15;7:49:19;9900 Körmend, Nefelejcs út 11.;1980.10.07;1986.08.31;kígyó;ló
+Kocsi Dóra;9.C;számvitel-gazdálkodás;l;szőke;7500;ének;0;4,89;2;Zalaegerszeg;2008.06.03;13:36:23;8921 Zalaszentlőrinc, Dózsa Gy u. 74.;1967.06.13;1969.05.12;kutya;vadászgörény
+Kocsi Martin;9.C;rendszergazda;f;szőke;9000;fizika;3;1;4;Zalaegerszeg;2008.01.13;17:47:52;8996 Zalacséb, Béke utca 15.;1980.07.29;1961.05.13;macska;
+Kovács Réka;9.C;pénzügy;l;szőke;7500;ének;1;1;1;Zalaegerszeg;2007.07.26;19:40:34;8900 Zalaegerszeg, Jegenyés u. 11.;1990.10.04;1982.11.03;kacsa;hörcsög
+Könyvásó Péter;9.C;számvitel-gazdálkodás;f;lila;5000;történelem;2;1;1;Zalaegerszeg;2007.04.29;4:22:38;8900 Zalaegerszeg, Ifjúság u. 10/2.;1978.05.18;1956.03.27;;
+László Máté;9.C;szoftverfejlesztő;f;fekete;6000;rajz;0;3,22;3;Zalaegerszeg;2008.03.16;15:04:43;8984 Gombosszeg, Petőfi S. utca 13.;1983.01.23;1963.02.24;macska;ló
+Leposa Eszter;9.C;pénzügy;l;kopasz;5500;informatika;0;4,75;1;Zalaegerszeg;2008.02.20;13:40:12;8900 Zalaegerszeg, Landorhegyi út 40.;1963.07.29;1973.09.21;patkány;kígyó
+Mózer Ádám;9.C;pénzügy;f;barna;7500;angol;3;1;2;Zalaegerszeg;2008.04.30;3:09:02;8900 Zalaegerszeg, Telekalja utca 11. ;1975.08.26;1961.10.31;teknős;macska
+Nagy Alexandra;9.C;számvitel-gazdálkodás;l;fekete;4500;informatika;0;2,84;4;Zalaegerszeg;2006.11.17;13:17:11;8900 Zalaegerszeg, Virágszer u. 3.;1963.01.25;1983.06.01;kacsa;ló
+Németh Gábor;9.C;szoftverfejlesztő;f;kopasz;6500;német;0;2,83;1;Zalaegerszeg;2007.02.12;7:08:23;8999 Zalalövő, Széchenyi utca 6.;1967.03.05;1980.02.27;kígyó;patkány
+Papp Fanni Angelika;9.C;pénzügy;l;fekete;7000;történelem;0;3,37;2;Miskolc;2007.06.29;18:21:27;8900 Zalaegerszeg, Szellőháti utca 8.;1967.02.05;1970.10.16;ló;patkány
+Patyi Norbert;9.C;pénzügy;f;fekete;7500;német;0;2,64;1;Zalaegerszeg;2008.02.08;4:42:08;8943 Bocfölde, Ady u. 26.;1973.04.22;1980.03.25;macska;kutya
+Pék Krisztián;9.C;pénzügy;f;lila;7000;fizika;0;2,07;1;Zalaegerszeg;2008.01.02;11:18:14;8951 Gutorfölde, Jókai M. u. 40;1981.10.29;1971.03.07;hörcsög;
+Rezneki Rebeka;9.C;szoftverfejlesztő;l;barna;6000;földrajz;0;4,32;1;Zalaegerszeg;2007.09.20;11:23:11;8900 Zalaegerszeg, Mikes u. 6/C;1977.08.17;1976.09.14;kacsa;hörcsög
+Salamon Dorina;9.C;számvitel-gazdálkodás;l;barna;7000;angol;0;2,91;1;Zalaegerszeg;2007.06.21;9:58:18;8913 Egervár, Széchenyi u. 73/D;1967.03.22;1975.11.06;;
+Soós Márk;9.C;szoftverfejlesztő;f;vörös;8000;matematika;0;3,84;1;Zalaegerszeg;2007.09.05;6:40:56;8900 Zalaegerszeg, Szent István utca 7. ;1975.05.03;1959.01.16;vadászgörény;
+Szeredi Hajnalka;9.C;pénzügy;l;vörös;9500;angol;0;4,46;2;Zalaegerszeg;2008.01.15;18:41:08;8877 Tornyisztmiklós,Kossuth u.124.;1965.09.07;1969.04.27;teknős;patkány
+Tóth Blanka;9.C;szoftverfejlesztő;l;barna;5500;fizika;0;3,83;1;Zalaegerszeg;2006.10.11;4:07:32;8900 Zalaegerszeg, Vizslaparki út 23. X/77.;1983.03.18;1965.05.11;;
+Tóth Noémi;9.C;számvitel-gazdálkodás;l;kopasz;7000;német;0;2,73;1;Zalaegerszeg;2006.11.08;16:21:43;8913 Egervár, Rét utca 14.;1979.01.01;1973.12.27;macska;patkány
+Tóth Piroska;9.C;számvitel-gazdálkodás;l;szőke;3500;német;3;1;1;Zalaegerszeg;2007.02.16;14:26:20;8900 Zalaegerszeg, Egry J.utca 2/b.;1980.06.02;1981.07.23;tyúk;vadászgörény
+Varga Ádám;9.C;pénzügy;f;barna;9000;ének;3;1;0;Zalaegerszeg;2007.02.13;8:34:02;8900 Zalaegerszeg, Vizslaparki út 44/A.;1967.04.30;1961.04.04;kutya;
+Vörös Veronika;9.C;számvitel-gazdálkodás;l;vörös;10000;matematika;3;1;0;Szombathely;2006.10.15;4:26:17;8936 Zalaszentmihály, Kossuth u. 64.;1980.06.27;1965.09.19;;
+Balogh Beatrix;9.D;pénzügy;l;barna;9000;történelem;1;1;2;Zalaegerszeg;2007.05.04;14:50:21;8762 Szentpéterúr, Bem J u. 34.;1985.08.08;1952.12.22;kacsa;
+Czira Dániel;9.D;pénzügy;f;vörös;4000;ének;2;1;1;Nagykanizsa;2007.05.10;15:40:31;8983 Babosdöbréte, Kossuth L. út 32.;1986.05.06;1965.04.10;teknős;kutya
+Domján Ádám;9.D;pénzügy;f;vörös;8500;ének;0;4,13;2;Körmend;2007.03.18;4:53:11;8991 Böde, Petőfi u.1. ;1984.04.12;1988.08.06;;
+Fehér Gréta;9.D;pénzügy;l;fekete;8500;biológia;0;3,15;0;Zalaegerszeg;2008.02.11;10:09:04;8981 Gellénháza, Széchenyi I. utca 49.;1974.04.25;1966.06.20;teknős;kacsa
+Frigy Balázs;9.D;rendszergazda;f;szőke;5000;ének;0;4,16;0;Zalaegerszeg;2008.01.28;15:11:10;8900 Zalaegerszeg, Hatházi u. 1/A-.;1986.03.14;1967.04.24;teknős;vadászgörény
+Horváth Bianka;9.D;rendszergazda;l;lila;4000;ének;0;4,32;0;Zalaegerszeg;2007.05.22;1:14:25;8999 Zalalövő, Széchenyi út 51.;1989.06.25;1983.02.01;kacsa;
+Illés Gergő;9.D;rendszergazda;f;barna;5500;földrajz;0;3,21;0;Nagykanizsa;2008.05.19;7:48:03;8771 Hahót, Kossuth tér 6.;1964.02.05;1976.05.12;hal;vadászgörény
+Jagicza Márton;9.D;számvitel-gazdálkodás;f;fekete;4000;történelem;0;2,34;2;Zalaegerszeg;2007.04.05;21:43:09;8997 Zalaháshágy, Petőfi Sándor utca 139.;1974.04.30;1983.07.07;kígyó;teknős
+Jándli Mercédesz;9.D;pénzügy;l;szőke;5000;biológia;0;3,18;2;Zalaegerszeg;2008.08.27;4:47:20;8900 Zalaegerszeg, Alsójánkahegyi út 26.;1986.07.25;1988.06.23;hörcsög;patkány
+Jandó Balázs;9.D;számvitel-gazdálkodás;f;barna;7000;rajz;0;4,58;0;Budapest;2007.06.09;9:47:09;8929 Pölöske, Dózsa Gy u. 21.;1982.10.22;1979.02.22;vadászgörény;
+Jáni Eszter;9.D;szoftverfejlesztő;l;kopasz;10000;fizika;0;4,89;1;Zalaegerszeg;2008.01.29;13:50:17;8798 Zalabér, Petőfi S. u. 25.;1964.08.09;1986.06.10;kígyó;
+Kalugyer Veronika;9.D;rendszergazda;l;barna;3000;ének;0;3,74;3;Körmend;2007.10.20;10:30:05;8900 Zalaegerszeg, Landorhegyi út 32.;1967.07.15;1955.11.14;macska;kígyó
+Király Gertrud Ilona;9.D;számvitel-gazdálkodás;l;barna;9000;magyar;0;2,05;0;Zalaegerszeg;2007.06.23;18:12:28;8900 Zalaegerszeg, Balatoni u. 44.;1979.08.18;1971.06.15;kígyó;kacsa
+Kóródi Dóra;9.D;pénzügy;l;vörös;9000;angol;0;2,75;0;Zalaegerszeg;2008.03.18;7:45:19;8936 Zalaszentmihály, Széchenyi u. 1.;1968.08.18;1954.07.16;teknős;tyúk
+Kósa László;9.D;szoftverfejlesztő;f;fekete;8500;ének;0;3,01;3;Zalaegerszeg;2007.12.08;8:31:23;8915 Nemesrádó, Petőfi köz 6. ;1972.12.26;1982.06.16;vadászgörény;hal
+Kurta Arnold;9.D;rendszergazda;f;barna;5500;történelem;2;1;1;Zalaegerszeg;2006.10.05;9:50:08;8900 Zalaegerszeg, Szent István u. 2/A..;1969.06.07;1974.05.25;;
+Mészáros Márk;9.D;pénzügy;f;szőke;7500;német;0;4,95;2;Zalaegerszeg;2006.09.14;16:12:10;8900 Zalaegerszeg, Széchenyi tér 7/A. 4/8.;1972.12.20;1971.05.06;kacsa;kutya
+Meszes Dóra;9.D;rendszergazda;l;barna;10000;földrajz;0;4,91;1;Zalaegerszeg;2008.01.09;8:36:11;8900 Zalaegerszeg, Landorhegyi u. 34.;1982.12.16;1988.08.17;kígyó;
+Németh Máté;9.D;pénzügy;f;vörös;3500;rajz;0;2,48;2;Zalaegerszeg;2008.08.29;7:58:58;8360 Keszthely, Lackovics utca 1.;1972.02.01;1960.07.24;ló;
+Pass Tamás;9.D;számvitel-gazdálkodás;f;barna;7000;informatika;0;3,39;4;Sopron;2006.09.04;23:21:43;9932 Viszák, Fő u. 29.;1968.01.18;1982.06.02;kígyó;kacsa
+Rónyai Fanni;9.D;szoftverfejlesztő;l;fekete;8000;földrajz;0;4,53;0;Zalaegerszeg;2007.06.16;20:05:41;8936 Zalaszentmihály, Deák F.u.11.;1966.09.17;1952.09.21;;
+Rózsás Bence;9.D;rendszergazda;f;kék;8000;történelem;0;3,82;2;Zalaegerszeg;2007.04.23;10:31:42;8912 Kispáli, Kossuth L. u.52.;1969.01.08;1963.02.17;kígyó;kígyó
+Rózsás Júlia;9.D;szoftverfejlesztő;l;szőke;6500;történelem;0;3,95;1;Zalaegerszeg;2007.08.12;12:09:29;8761 Pacsa, Deák Ferenc utca 7/F.;1987.05.26;1975.01.17;macska;
+Sifter Tamás;9.D;rendszergazda;f;barna;3000;magyar;0;3,64;2;Zalaegerszeg;2006.10.17;5:15:01;8992 Bagod, Zöldmező u. 1.;1980.12.08;1965.04.10;tyúk;kutya
+Szabó Anna;9.D;szoftverfejlesztő;l;fekete;7500;földrajz;0;2,06;0;Zalaegerszeg;2006.10.29;20:48:37;8994 Zalaszentgyörgy, Kossuth u. 17.;1962.08.27;1980.03.02;ló;hal
+Szabó Bianka;9.D;pénzügy;l;szőke;8500;földrajz;2;1;1;Nagykanizsa;2007.10.24;2:15:15;8960 Lenti, Szövetkezet u. 4.;1991.09.28;1983.06.08;;
+Szabó Csaba;9.D;pénzügy;f;vörös;8000;földrajz;0;4,28;1;Zalaegerszeg;2008.08.20;21:59:14;8943 Bocfölde, Berek utca 25.;1991.05.21;1974.03.15;macska;ló
+Szentes Richárd;9.D;szoftverfejlesztő;f;vörös;4000;történelem;0;2,56;3;Zalaegerszeg;2008.06.21;13:21:22;8985 Becsvölgye, Petőfi  út 1/A;1971.09.17;1972.01.11;kacsa;tyúk
+Tóth Máté;9.D;rendszergazda;f;barna;7000;magyar;0;3,88;3;Zalaegerszeg;2007.03.21;18:09:42;8943 Bocfölde, Ady E. u. 56.;1980.08.18;1954.07.22;hörcsög;kacsa
+Törőcsik Bence;9.D;számvitel-gazdálkodás;f;vörös;3500;német;0;3,62;0;Zalaegerszeg;2007.07.29;16:38:32;8900 Zalaegerszeg, Landorhegyi u. 26.;1964.06.25;1976.09.06;hal;tyúk
